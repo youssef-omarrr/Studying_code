@@ -84,3 +84,5 @@ if __name__ == "__main__":
         print(f"{i}: {question}")
         ans = sol.checkValidString(question)
         print(f"ans {i}: {ans}\n")
+
+# problem with answer: doesn't handel every possbile probability of * reliably
