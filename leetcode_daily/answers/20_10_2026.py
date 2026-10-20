@@ -1,6 +1,5 @@
 from typing import List
 import math
-from collections import deque
 
 class Solution:
     def sortableIntegers(self, nums: list[int]) -> int:
