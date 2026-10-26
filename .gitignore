@@ -1,3 +1,6 @@
 # Some books are only available for personal use only, 
 # so to respect the authors wishes I won't push the PDFs directly
 BOOKS/PDFs/
+
+# datasets
+fpl_2025-26/
