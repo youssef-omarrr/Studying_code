@@ -1,0 +1,3753 @@
+category,name,id
+league,algir1,0
+league,australia,1
+league,austria1,2
+league,austria2,3
+league,azer,4
+league,belgium1,5
+league,brazil1,6
+league,brazil2,7
+league,bulgaria1,8
+league,cha,9
+league,china,10
+league,czech1,11
+league,czech2,12
+league,czech3a,13
+league,czech3b,14
+league,denmark1,15
+league,denmark2,16
+league,egypt,17
+league,eng1,18
+league,eng2,19
+league,estonia,20
+league,finland1,21
+league,finland2,22
+league,france1,23
+league,france2,24
+league,france3,25
+league,germany1,26
+league,germany2,27
+league,germany3,28
+league,germany-north,29
+league,greece1,30
+league,greece2,31
+league,holland1,32
+league,holland2,33
+league,holland3,34
+league,hungary1,35
+league,hungary2,36
+league,india1,37
+league,ireland1,38
+league,ireland2,39
+league,italy1,40
+league,italy19,41
+league,italy2,42
+league,italy3a,43
+league,italy3b,44
+league,japan1,45
+league,japan2,46
+league,korea1,47
+league,korea2,48
+league,kuwait,49
+league,latvia,50
+league,lithuania,51
+league,morocco,52
+league,national,53
+league,north,54
+league,norway,55
+league,poland1,56
+league,poland2,57
+league,portugal1,58
+league,portugal2,59
+league,premier,60
+league,primera1,61
+league,primera2,62
+league,romania1,63
+league,russia,64
+league,saudi1,65
+league,saudi2,66
+league,scot1,67
+league,scot2,68
+league,scot-champ,69
+league,scot-premier,70
+league,segunda1,71
+league,segunda2,72
+league,segunda3,73
+league,segunda4,74
+league,segunda5,75
+league,serbia1,76
+league,slovenia1,77
+league,south,78
+league,spain1,79
+league,spain2,80
+league,sweden1,81
+league,sweden2,82
+league,swiss1,83
+league,swiss2,84
+league,thai1,85
+league,turkey1,86
+league,turkey2,87
+league,wbelgium1,88
+league,wfrance1,89
+league,wgermany1,90
+league,wsweden,91
+country,Algeria,0
+country,Australia,1
+country,Austria,2
+country,Azerbaijan,3
+country,Belgium,4
+country,Brazil,5
+country,Bulgaria,6
+country,England,7
+country,China,8
+country,Czech Republic,9
+country,Denmark,10
+country,Egypt,11
+country,Estonia,12
+country,Finland,13
+country,France,14
+country,Germany,15
+country,Greece,16
+country,Netherlands,17
+country,Hungary,18
+country,India,19
+country,Ireland,20
+country,Italy,21
+country,Japan,22
+country,South Korea,23
+country,Kuwait,24
+country,Latvia,25
+country,Lithuania,26
+country,Morocco,27
+country,Norway,28
+country,Poland,29
+country,Portugal,30
+country,Spain,31
+country,Romania,32
+country,Russia,33
+country,Saudi Arabia,34
+country,Scotland,35
+country,Serbia,36
+country,Slovenia,37
+country,Sweden,38
+country,Switzerland,39
+country,Thailand,40
+country,Turkey,41
+season,2023-2024,0
+season,2024-2025,1
+season,2025-2026,2
+season,2023,3
+season,2024,4
+season,2025,5
+season,2026,6
+home_team,Khenchela,0
+home_team,El Bayadh,1
+home_team,ASO Chlef,2
+home_team,Magra,3
+home_team,MC Alger,4
+home_team,Saoura,5
+home_team,Kabylie,6
+home_team,Ben Aknoun,7
+home_team,Constantine,8
+home_team,Oran,9
+home_team,ES Setif,10
+home_team,CR Belouizdad,11
+home_team,Biskra,12
+home_team,Paradou,13
+home_team,US Souf,14
+home_team,USM Alger,15
+home_team,Olympique Akbou,16
+home_team,Mostaganem,17
+home_team,Rouisset,18
+home_team,Adelaide United,19
+home_team,Sydney FC,20
+home_team,Melbourne City,21
+home_team,Macarthur FC,22
+home_team,WS Wanderers,23
+home_team,Perth Glory,24
+home_team,Brisbane Roar,25
+home_team,Wellington Phoenix,26
+home_team,Melbourne Victory,27
+home_team,Central Coast Mariners,28
+home_team,Newcastle Jets,29
+home_team,Western United,30
+home_team,Auckland FC,31
+home_team,LASK,32
+home_team,Altach,33
+home_team,Hartberg,34
+home_team,Tirol,35
+home_team,Wolfsberger AC,36
+home_team,Austria Vienna,37
+home_team,Sturm Graz,38
+home_team,SK Rapid,39
+home_team,Salzburg,40
+home_team,BW Linz,41
+home_team,A. Lustenau,42
+home_team,A. Klagenfurt,43
+home_team,Grazer AK,44
+home_team,Ried,45
+home_team,Leoben,46
+home_team,Lafnitz,47
+home_team,Bregenz,48
+home_team,Liefering,49
+home_team,Admira,50
+home_team,Sturm Graz II,51
+home_team,Floridsdorfer AC,52
+home_team,Stripfing,53
+home_team,St. Polten,54
+home_team,Kapfenberg,55
+home_team,Dornbirn,56
+home_team,Amstetten,57
+home_team,First Vienna,58
+home_team,Horn,59
+home_team,ASK Voitsberg,60
+home_team,SK Rapid II,61
+home_team,A. Salzburg,62
+home_team,Austria Vienna (Am),63
+home_team,Hertha Wels,64
+home_team,Araz,65
+home_team,Qarabag,66
+home_team,Sabail,67
+home_team,Sabah Baku,68
+home_team,Kapaz,69
+home_team,Zira,70
+home_team,Neftci Baku,71
+home_team,Gabala,72
+home_team,Turan Tovuz,73
+home_team,Sumqayit,74
+home_team,Shamakhi,75
+home_team,Karvan,76
+home_team,Imisli FK,77
+home_team,Royale Union SG,78
+home_team,RWDM Brussels,79
+home_team,Charleroi,80
+home_team,Eupen,81
+home_team,Antwerp,82
+home_team,Gent,83
+home_team,St. Truiden,84
+home_team,Club Brugge KV,85
+home_team,St. Liege,86
+home_team,Cercle Brugge KSV,87
+home_team,Genk,88
+home_team,Leuven,89
+home_team,Westerlo,90
+home_team,KV Mechelen,91
+home_team,Kortrijk,92
+home_team,Anderlecht,93
+home_team,Beerschot VA,94
+home_team,Dender,95
+home_team,Waregem,96
+home_team,RAAL La Louviere,97
+home_team,Patro Eisden,98
+home_team,Lommel SK,99
+home_team,RFC Liege,100
+home_team,Botafogo RJ,101
+home_team,America MG,102
+home_team,Athletico-PR,103
+home_team,Palmeiras,104
+home_team,Fortaleza,105
+home_team,Bragantino,106
+home_team,Gremio,107
+home_team,Atletico-MG,108
+home_team,Corinthians,109
+home_team,Flamengo RJ,110
+home_team,Fluminense,111
+home_team,Cuiaba,112
+home_team,Sao Paulo,113
+home_team,Coritiba,114
+home_team,Internacional,115
+home_team,Santos,116
+home_team,Vasco,117
+home_team,Cruzeiro,118
+home_team,Goias,119
+home_team,Bahia,120
+home_team,Criciuma,121
+home_team,Vitoria,122
+home_team,Atletico GO,123
+home_team,Juventude,124
+home_team,Ceara,125
+home_team,Mirassol,126
+home_team,Sport Recife,127
+home_team,Guarani,128
+home_team,Vila Nova FC,129
+home_team,Ituano,130
+home_team,Sampaio Correa,131
+home_team,Londrina,132
+home_team,Ponte Preta,133
+home_team,Novorizontino,134
+home_team,Botafogo SP,135
+home_team,Avai,136
+home_team,Tombense,137
+home_team,ABC,138
+home_team,Chapecoense-SC,139
+home_team,CRB,140
+home_team,Amazonas,141
+home_team,Operario-PR,142
+home_team,Brusque,143
+home_team,Paysandu PA,144
+home_team,Ferroviaria,145
+home_team,Volta Redonda,146
+home_team,Remo,147
+home_team,Athletic Club,148
+home_team,Pirin Blagoevgrad,149
+home_team,Krumovgrad,150
+home_team,Levski Sofia,151
+home_team,Arda,152
+home_team,Lok. Plovdiv,153
+home_team,Hebar,154
+home_team,Lok. Sofia,155
+home_team,Etar,156
+home_team,CSKA Sofia,157
+home_team,CSKA 1948 Sofia,158
+home_team,Ludogorets,159
+home_team,Botev Plovdiv,160
+home_team,Cherno More,161
+home_team,Botev Vratsa,162
+home_team,Beroe,163
+home_team,Slavia Sofia,164
+home_team,Septemvri Sofia,165
+home_team,Spartak Varna,166
+home_team,Dobrudzha,167
+home_team,Montana,168
+home_team,Sheffield Wed,169
+home_team,Watford,170
+home_team,Swansea,171
+home_team,Stoke,172
+home_team,Plymouth,173
+home_team,Norwich,174
+home_team,Middlesbrough,175
+home_team,Bristol City,176
+home_team,Blackburn,177
+home_team,Sunderland,178
+home_team,Leicester,179
+home_team,Leeds,180
+home_team,Southampton,181
+home_team,West Brom,182
+home_team,Rotherham,183
+home_team,Preston,184
+home_team,Millwall,185
+home_team,Ipswich,186
+home_team,Hull,187
+home_team,Huddersfield,188
+home_team,Coventry,189
+home_team,Cardiff,190
+home_team,Birmingham,191
+home_team,QPR,192
+home_team,Oxford Utd,193
+home_team,Luton,194
+home_team,Derby,195
+home_team,Burnley,196
+home_team,Sheffield Utd,197
+home_team,Portsmouth,198
+home_team,Charlton,199
+home_team,Wrexham,200
+home_team,Zhejiang Professional,201
+home_team,Wuhan Three Towns,202
+home_team,Dalian Pro,203
+home_team,Beijing Guoan,204
+home_team,Tianjin Jinmen Tiger,205
+home_team,Shenzhen,206
+home_team,Shanghai Shenhua,207
+home_team,Henan Songshan Longmen,208
+home_team,Shandong Taishan,209
+home_team,Meizhou Hakka,210
+home_team,Chengdu Rongcheng,211
+home_team,Changchun Yatai,212
+home_team,Shanghai Port,213
+home_team,Qingdao Hainiu,214
+home_team,Nantong Zhiyun,215
+home_team,Cangzhou,216
+home_team,Qingdao West Coast,217
+home_team,Shenzhen Xinpengcheng,218
+home_team,Yunnan Yukun,219
+home_team,Dalian Yingbo,220
+home_team,Teplice,221
+home_team,Slavia Prague,222
+home_team,Karvina,223
+home_team,FK Pardubice,224
+home_team,Slovacko,225
+home_team,Mlada Boleslav,226
+home_team,Liberec,227
+home_team,Sparta Prague,228
+home_team,Ostrava,229
+home_team,Sigma Olomouc,230
+home_team,Zlin,231
+home_team,Plzen,232
+home_team,Bohemians,233
+home_team,Ceske Budejovice,234
+home_team,Hradec Kralove,235
+home_team,Jablonec,236
+home_team,Dukla Prague,237
+home_team,Artis Brno,238
+home_team,Taborsko,239
+home_team,Jihlava,240
+home_team,Prostejov,241
+home_team,Vyskov,242
+home_team,Chrudim,243
+home_team,Varnsdorf,244
+home_team,Sparta Prague B,245
+home_team,Brno,246
+home_team,Opava,247
+home_team,Vlasim,248
+home_team,Kromeriz,249
+home_team,Zizkov,250
+home_team,Sigma Olomouc B,251
+home_team,Pribram,252
+home_team,Slavia Prague B,253
+home_team,Ostrava B,254
+home_team,Usti nad Labem,255
+home_team,Kraluv Dvur,256
+home_team,Hostoun,257
+home_team,Loko Praha,258
+home_team,Karlovy Vary,259
+home_team,FK Robstav,260
+home_team,Povltavska FA,261
+home_team,Plzen B,262
+home_team,Admira Prague,263
+home_team,Pisek,264
+home_team,Motorlet Prague,265
+home_team,Domazlice,266
+home_team,Ceske Budejovice B,267
+home_team,Taborsko akademie,268
+home_team,Bohemians 1905 B,269
+home_team,Dukla Prague B,270
+home_team,Chomutov,271
+home_team,Petrin Plzen,272
+home_team,Velvary,273
+home_team,SK Kladno,274
+home_team,Slavia Prague U20,275
+home_team,Pribram B,276
+home_team,Aritma Prague,277
+home_team,Banik Most-Sous,278
+home_team,Jablonec B,279
+home_team,Mlada Boleslav B,280
+home_team,Hradec Kralove B,281
+home_team,Brozany,282
+home_team,Liberec B,283
+home_team,Kolin,284
+home_team,Zivanice,285
+home_team,Pardubice B,286
+home_team,Prepere,287
+home_team,Zapy,288
+home_team,Teplice B,289
+home_team,FK Ceska Lipa,290
+home_team,Chlumec nad Cidlinou,291
+home_team,Benatky n. Jiz.,292
+home_team,Usti nad Orlici,293
+home_team,Velke Hamry,294
+home_team,Neratovice,295
+home_team,Midtjylland,296
+home_team,Lyngby,297
+home_team,Silkeborg,298
+home_team,Odense,299
+home_team,Aarhus,300
+home_team,Nordsjaelland,301
+home_team,Viborg,302
+home_team,Vejle,303
+home_team,Randers FC,304
+home_team,Brondby,305
+home_team,FC Copenhagen,306
+home_team,Hvidovre IF,307
+home_team,Sonderjyske,308
+home_team,Aalborg,309
+home_team,Fredericia,310
+home_team,Vendsyssel,311
+home_team,Hillerod,312
+home_team,B.93,313
+home_team,Helsingor,314
+home_team,Kolding IF,315
+home_team,Koge,316
+home_team,Hobro,317
+home_team,Horsens,318
+home_team,Naestved,319
+home_team,Esbjerg,320
+home_team,Roskilde,321
+home_team,Middelfart,322
+home_team,Aarhus Fremad,323
+home_team,El Gaish,324
+home_team,ZED,325
+home_team,Al Ahly,326
+home_team,Smouha,327
+home_team,Arab Contractors,328
+home_team,El Daklyeh,329
+home_team,Al Ittihad,330
+home_team,Pyramids,331
+home_team,Pharco,332
+home_team,Zamalek,333
+home_team,National Bank Egypt,334
+home_team,Baladiyat El Mahalla,335
+home_team,Modern Sport,336
+home_team,El Gouna,337
+home_team,Enppi,338
+home_team,El Ismaily,339
+home_team,Al Masry,340
+home_team,Ceramica Cleopatra,341
+home_team,Haras El Hodood,342
+home_team,Ghazl El Mahallah,343
+home_team,Petrojet,344
+home_team,Wadi Degla,345
+home_team,Kahrabaa Ismailia,346
+home_team,Wycombe,347
+home_team,Shrewsbury,348
+home_team,Reading,349
+home_team,Northampton,350
+home_team,Carlisle,351
+home_team,Cambridge Utd,352
+home_team,Bolton,353
+home_team,Blackpool,354
+home_team,Barnsley,355
+home_team,Wigan,356
+home_team,Stevenage,357
+home_team,Port Vale,358
+home_team,Peterborough,359
+home_team,Lincoln,360
+home_team,Leyton Orient,361
+home_team,Fleetwood,362
+home_team,Exeter,363
+home_team,Cheltenham,364
+home_team,Burton,365
+home_team,Bristol Rovers,366
+home_team,Stockport County,367
+home_team,Crawley,368
+home_team,Mansfield,369
+home_team,Bradford City,370
+home_team,Doncaster,371
+home_team,AFC Wimbledon,372
+home_team,Tranmere,373
+home_team,Sutton,374
+home_team,Morecambe,375
+home_team,Grimsby,376
+home_team,Forest Green,377
+home_team,Crewe,378
+home_team,Accrington,379
+home_team,Walsall,380
+home_team,Swindon,381
+home_team,Salford,382
+home_team,Notts Co,383
+home_team,Newport,384
+home_team,MK Dons,385
+home_team,Harrogate,386
+home_team,Gillingham,387
+home_team,Barrow,388
+home_team,Colchester,389
+home_team,Chesterfield,390
+home_team,Bromley,391
+home_team,Barnet,392
+home_team,Oldham,393
+home_team,Flora,394
+home_team,Tallinna Kalev,395
+home_team,Paide,396
+home_team,Levadia,397
+home_team,Kuressaare,398
+home_team,Harju JK Laagri,399
+home_team,Parnu JK Vaprus,400
+home_team,Narva,401
+home_team,Tammeka,402
+home_team,Kalju,403
+home_team,Nomme Utd,404
+home_team,VPS,405
+home_team,SJK,406
+home_team,Mariehamn,407
+home_team,KuPS,408
+home_team,KTP,409
+home_team,HJK,410
+home_team,Haka,411
+home_team,Ilves,412
+home_team,Honka,413
+home_team,AC Oulu,414
+home_team,Lahti,415
+home_team,Inter Turku,416
+home_team,Gnistan,417
+home_team,Ekenas,418
+home_team,Jaro,419
+home_team,HIFK,420
+home_team,SJK Akatemia,421
+home_team,SalPa,422
+home_team,KPV Kokkola,423
+home_team,KaPa,424
+home_team,JaPS,425
+home_team,JJK Jyvaskyla,426
+home_team,TPS,427
+home_team,Mikkeli,428
+home_team,PK-35,429
+home_team,Jippo,430
+home_team,Klubi 04,431
+home_team,Nice,432
+home_team,PSG,433
+home_team,Marseille,434
+home_team,Brest,435
+home_team,Strasbourg,436
+home_team,Rennes,437
+home_team,Nantes,438
+home_team,Montpellier,439
+home_team,Clermont,440
+home_team,Metz,441
+home_team,Toulouse,442
+home_team,Lyon,443
+home_team,Monaco,444
+home_team,Reims,445
+home_team,Lorient,446
+home_team,Lille,447
+home_team,Lens,448
+home_team,Le Havre,449
+home_team,Angers,450
+home_team,Auxerre,451
+home_team,St Etienne,452
+home_team,Paris FC,453
+home_team,Red Star,454
+home_team,Valenciennes,455
+home_team,Laval,456
+home_team,Dunkerque,457
+home_team,Concarneau,458
+home_team,Annecy,459
+home_team,Amiens,460
+home_team,AC Ajaccio,461
+home_team,Pau FC,462
+home_team,Troyes,463
+home_team,Rodez,464
+home_team,Quevilly Rouen,465
+home_team,Guingamp,466
+home_team,Grenoble,467
+home_team,Caen,468
+home_team,Bastia,469
+home_team,Bordeaux,470
+home_team,Martigues,471
+home_team,Nancy,472
+home_team,Le Mans,473
+home_team,Boulogne,474
+home_team,Rouen,475
+home_team,Orleans,476
+home_team,Niort,477
+home_team,Marignane GCB,478
+home_team,Epinal,479
+home_team,Dijon,480
+home_team,Cholet,481
+home_team,Nimes,482
+home_team,Villefranche,483
+home_team,GOAL FC,484
+home_team,Chateauroux,485
+home_team,Avranches,486
+home_team,Versailles,487
+home_team,Sochaux,488
+home_team,Paris 13 Atl.,489
+home_team,Aubagne,490
+home_team,Bourg en Bresse,491
+home_team,Stade Briochin,492
+home_team,Le Puy-en-Velay,493
+home_team,Fleury-Merogis,494
+home_team,Werder Bremen,495
+home_team,Dortmund,496
+home_team,Wolfsburg,497
+home_team,Stuttgart,498
+home_team,Hoffenheim,499
+home_team,Bayer Leverkusen,500
+home_team,Augsburg,501
+home_team,Union Berlin,502
+home_team,Eintracht Frankfurt,503
+home_team,RB Leipzig,504
+home_team,Heidenheim,505
+home_team,Freiburg,506
+home_team,Darmstadt,507
+home_team,Bochum,508
+home_team,B. Monchengladbach,509
+home_team,FC Koln,510
+home_team,Mainz,511
+home_team,Bayern Munich,512
+home_team,St. Pauli,513
+home_team,Holstein Kiel,514
+home_team,Hamburger SV,515
+home_team,Wehen,516
+home_team,VfL Osnabruck,517
+home_team,Kaiserslautern,518
+home_team,Hannover,519
+home_team,Dusseldorf,520
+home_team,Hansa Rostock,521
+home_team,Greuther Furth,522
+home_team,Braunschweig,523
+home_team,Paderborn,524
+home_team,Hertha Berlin,525
+home_team,Schalke,526
+home_team,Elversberg,527
+home_team,Nurnberg,528
+home_team,Magdeburg,529
+home_team,Karlsruher SC,530
+home_team,Ulm,531
+home_team,Regensburg,532
+home_team,Preussen Munster,533
+home_team,Arminia Bielefeld,534
+home_team,SG Dynamo Dresden,535
+home_team,RW Essen,536
+home_team,Hallescher,537
+home_team,Munich 1860,538
+home_team,Lubeck,539
+home_team,Viktoria Koln,540
+home_team,Freiburg II,541
+home_team,Aue,542
+home_team,Sandhausen,543
+home_team,Mannheim,544
+home_team,Unterhaching,545
+home_team,Saarbrucken,546
+home_team,Ingolstadt,547
+home_team,Duisburg,548
+home_team,Verl,549
+home_team,Dortmund II,550
+home_team,Cottbus,551
+home_team,Alemannia Aachen,552
+home_team,Hannover II,553
+home_team,Stuttgart II,554
+home_team,Hoffenheim II,555
+home_team,Schweinfurt,556
+home_team,TSV Havelse,557
+home_team,Lohne,558
+home_team,Meppen,559
+home_team,SC Weiche-08,560
+home_team,Bremer,561
+home_team,Hamburger SV II,562
+home_team,St. Pauli II,563
+home_team,Spelle-Venhaus,564
+home_team,Drochtersen/Assel,565
+home_team,Eimsbutteler,566
+home_team,VfB Oldenburg,567
+home_team,Teutonia Ottensen,568
+home_team,Norderstedt,569
+home_team,Kilia Kiel,570
+home_team,Phonix Lubeck,571
+home_team,Jeddeloh,572
+home_team,Holstein Kiel II,573
+home_team,Emden,574
+home_team,Werder Bremen II,575
+home_team,Todesfelde,576
+home_team,Altona,577
+home_team,SC Weiche,578
+home_team,Schoningen,579
+home_team,Hannoverscher SC,580
+home_team,Volos,581
+home_team,PAOK,582
+home_team,Olympiacos Piraeus,583
+home_team,OFI Crete,584
+home_team,Giannina,585
+home_team,Panetolikos,586
+home_team,Asteras Tripolis,587
+home_team,Panathinaikos,588
+home_team,AEK Athens FC,589
+home_team,Lamia,590
+home_team,Kifisia,591
+home_team,Panserraikos,592
+home_team,Aris,593
+home_team,Atromitos,594
+home_team,Levadiakos,595
+home_team,Athens Kallithea,596
+home_team,AEK Athens,597
+home_team,AEL Larissa,598
+home_team,Olympiacos Piraeus B,599
+home_team,Makedonikos,600
+home_team,Kozani FC,601
+home_team,Karditsa,602
+home_team,Tilikratis L.,603
+home_team,Panathinaikos B,604
+home_team,Ionikos,605
+home_team,Giouchtas,606
+home_team,PAOK B,607
+home_team,AEK Athens FC B,608
+home_team,Panachaiki,609
+home_team,Diagoras,610
+home_team,Iraklis 1908,611
+home_team,Ilioupoli,612
+home_team,Aiolikos,613
+home_team,PAE Chania,614
+home_team,Kalamata,615
+home_team,Niki Volos,616
+home_team,PAE Egaleo,617
+home_team,Kalamaria,618
+home_team,Kampaniakos,619
+home_team,Ethnikos Neou,620
+home_team,Panargiakos,621
+home_team,Asteras Tripolis B,622
+home_team,Kavala,623
+home_team,Panionios,624
+home_team,Chrisoupolis,625
+home_team,Marko,626
+home_team,Ellas Syrou,627
+home_team,FC Volendam,628
+home_team,Zwolle,629
+home_team,PSV,630
+home_team,Heerenveen,631
+home_team,Ajax,632
+home_team,Nijmegen,633
+home_team,Feyenoord,634
+home_team,AZ Alkmaar,635
+home_team,Almere City,636
+home_team,Heracles,637
+home_team,Vitesse,638
+home_team,Sittard,639
+home_team,G.A. Eagles,640
+home_team,Excelsior,641
+home_team,Waalwijk,642
+home_team,Utrecht,643
+home_team,Twente,644
+home_team,Sparta Rotterdam,645
+home_team,Groningen,646
+home_team,Willem II,647
+home_team,NAC Breda,648
+home_team,Telstar,649
+home_team,Roda,650
+home_team,Den Bosch,651
+home_team,De Graafschap,652
+home_team,Dordrecht,653
+home_team,Cambuur,654
+home_team,Venlo,655
+home_team,Eindhoven FC,656
+home_team,Jong AZ,657
+home_team,Jong PSV,658
+home_team,Oss,659
+home_team,Helmond,660
+home_team,FC Emmen,661
+home_team,Den Haag,662
+home_team,Jong Ajax,663
+home_team,Jong Utrecht,664
+home_team,Maastricht,665
+home_team,Scheveningen,666
+home_team,Rijnsburgse Boys,667
+home_team,HFC,668
+home_team,Katwijk,669
+home_team,Excelsior Maassluis,670
+home_team,De Treffers,671
+home_team,AFC,672
+home_team,ADO 20 Heemskerk,673
+home_team,ACV Assen,674
+home_team,Noordwijk,675
+home_team,Spakenburg,676
+home_team,Quick Boys,677
+home_team,Lisse,678
+home_team,Kozakken Boys,679
+home_team,Jong Sparta Rotterdam,680
+home_team,Hardenberg,681
+home_team,GVVV,682
+home_team,Jong Almere City,683
+home_team,Barendrecht,684
+home_team,RKAV Volendam,685
+home_team,IJsselmeervogels,686
+home_team,Hoek,687
+home_team,Rijnvogels,688
+home_team,VVSB,689
+home_team,Sparta Nijkerk,690
+home_team,DVS '33 Ermelo,691
+home_team,Groningen U21,692
+home_team,MTK Budapest,693
+home_team,Ujpest,694
+home_team,DVTK,695
+home_team,Zalaegerszegi,696
+home_team,Debrecen,697
+home_team,Puskas Academy,698
+home_team,Mezokovesd-Zsory,699
+home_team,Videoton,700
+home_team,Kecskemeti TE,701
+home_team,Ferencvaros,702
+home_team,Paks,703
+home_team,Kisvarda,704
+home_team,Nyiregyhaza,705
+home_team,Gyor,706
+home_team,Kazincbarcika,707
+home_team,BVSC-Zuglo,708
+home_team,Vasas,709
+home_team,Ajka,710
+home_team,Csakvari,711
+home_team,Gyirmot,712
+home_team,Kozarmisleny SE,713
+home_team,Pecsi MFC,714
+home_team,Szeged,715
+home_team,Budafoki,716
+home_team,Tiszakecske,717
+home_team,Soroksar,718
+home_team,Siofok,719
+home_team,Mosonmagyarovari TE,720
+home_team,Honved,721
+home_team,Haladas,722
+home_team,Tatabanya,723
+home_team,Bekescsaba 1912,724
+home_team,Szentlorinc,725
+home_team,Karcagi,726
+home_team,Kerala Blasters,727
+home_team,Mohun Bagan,728
+home_team,Odisha FC,729
+home_team,North East Utd,730
+home_team,East Bengal,731
+home_team,Goa,732
+home_team,Bengaluru FC,733
+home_team,Jamshedpur,734
+home_team,Punjab,735
+home_team,Chennaiyin,736
+home_team,Mumbai City,737
+home_team,Hyderabad,738
+home_team,Mohammedan,739
+home_team,Inter Kashi,740
+home_team,SC Delhi,741
+home_team,St. Patricks,742
+home_team,Shelbourne,743
+home_team,Dundalk,744
+home_team,Cork City,745
+home_team,Sligo Rovers,746
+home_team,UC Dublin,747
+home_team,Drogheda,748
+home_team,Derry City,749
+home_team,Shamrock Rovers,750
+home_team,Galway,751
+home_team,Waterford,752
+home_team,Treaty United,753
+home_team,Kerry,754
+home_team,Wexford,755
+home_team,Finn Harps,756
+home_team,Longford,757
+home_team,Cobh Ramblers,758
+home_team,Bray,759
+home_team,Athlone,760
+home_team,Inter,761
+home_team,Genoa,762
+home_team,Frosinone,763
+home_team,Empoli,764
+home_team,Udinese,765
+home_team,Sassuolo,766
+home_team,Lecce,767
+home_team,AS Roma,768
+home_team,Torino,769
+home_team,Bologna,770
+home_team,Verona,771
+home_team,Monza,772
+home_team,AC Milan,773
+home_team,Napoli,774
+home_team,Lazio,775
+home_team,Juventus,776
+home_team,Fiorentina,777
+home_team,Salernitana,778
+home_team,Cagliari,779
+home_team,Atalanta,780
+home_team,Parma,781
+home_team,Venezia,782
+home_team,Como,783
+home_team,Cremonese,784
+home_team,Pisa,785
+home_team,Sassuolo U19,786
+home_team,Inter U19,787
+home_team,Atalanta U19,788
+home_team,Monza U19,789
+home_team,Bologna U19,790
+home_team,Juventus U19,791
+home_team,Verona U19,792
+home_team,Genoa U19,793
+home_team,AS Roma U19,794
+home_team,Sampdoria U19,795
+home_team,Frosinone U19,796
+home_team,Lazio U19,797
+home_team,Cagliari U19,798
+home_team,AC Milan U19,799
+home_team,Torino U19,800
+home_team,Fiorentina U19,801
+home_team,Empoli U19,802
+home_team,Lecce U19,803
+home_team,Cesena U20,804
+home_team,Inter U20,805
+home_team,Verona U20,806
+home_team,Udinese U20,807
+home_team,Torino U20,808
+home_team,Monza U20,809
+home_team,Genoa U20,810
+home_team,Atalanta U20,811
+home_team,AS Roma U20,812
+home_team,Empoli U20,813
+home_team,Cagliari U20,814
+home_team,Lecce U20,815
+home_team,Juventus U20,816
+home_team,Sampdoria U20,817
+home_team,Cremonese U20,818
+home_team,Bologna U20,819
+home_team,Lazio U20,820
+home_team,AC Milan U20,821
+home_team,Sassuolo U20,822
+home_team,Fiorentina U20,823
+home_team,Napoli U20,824
+home_team,Frosinone U20,825
+home_team,Parma U20,826
+home_team,Bari,827
+home_team,Ternana,828
+home_team,Cosenza,829
+home_team,Sudtirol,830
+home_team,Cittadella,831
+home_team,Sampdoria,832
+home_team,Modena,833
+home_team,FeralpiSalo,834
+home_team,Catanzaro,835
+home_team,Reggiana,836
+home_team,Ascoli,837
+home_team,Palermo,838
+home_team,Spezia,839
+home_team,Lecco,840
+home_team,Brescia,841
+home_team,Cesena,842
+home_team,Mantova,843
+home_team,Carrarese,844
+home_team,Juve Stabia,845
+home_team,Pescara,846
+home_team,Entella,847
+home_team,Avellino,848
+home_team,Padova,849
+home_team,Pro Patria,850
+home_team,Atalanta U23,851
+home_team,Legnago Salus,852
+home_team,Alessandria,853
+home_team,L.R. Vicenza,854
+home_team,Triestina,855
+home_team,Pro Vercelli,856
+home_team,Pergolettese,857
+home_team,Fiorenzuola,858
+home_team,Arzignano,859
+home_team,Giana Erminio,860
+home_team,Lumezzane,861
+home_team,Pro Sesto,862
+home_team,Renate,863
+home_team,Trento,864
+home_team,Virtus Verona,865
+home_team,Novara,866
+home_team,AlbinoLeffe,867
+home_team,Alcione Milano,868
+home_team,Union Clodiense,869
+home_team,Caldiero Terme,870
+home_team,Ospitaletto,871
+home_team,Inter U23,872
+home_team,Dolomiti Bellunesi,873
+home_team,Pontedera,874
+home_team,Rimini,875
+home_team,Lucchese,876
+home_team,Gubbio,877
+home_team,Spal,878
+home_team,Recanatese,879
+home_team,Olbia,880
+home_team,Vis Pesaro,881
+home_team,Pineto,882
+home_team,Sestri Levante,883
+home_team,Torres,884
+home_team,Fermana,885
+home_team,Arezzo,886
+home_team,Ancona,887
+home_team,Perugia,888
+home_team,Juventus U23,889
+home_team,Pianese,890
+home_team,Carpi,891
+home_team,Campobasso,892
+home_team,AC Milan U23,893
+home_team,Livorno,894
+home_team,Sambenedettese,895
+home_team,Ravenna,896
+home_team,Bra,897
+home_team,Forli,898
+home_team,Guidonia,899
+home_team,Nagoya Grampus,900
+home_team,Sanfrecce Hiroshima,901
+home_team,Sagan Tosu,902
+home_team,Machida,903
+home_team,Iwata,904
+home_team,Avispa Fukuoka,905
+home_team,Cerezo Osaka,906
+home_team,Shonan Bellmare,907
+home_team,Verdy,908
+home_team,Kashiwa Reysol,909
+home_team,Yokohama F. Marinos,910
+home_team,Kawasaki Frontale,911
+home_team,Vissel Kobe,912
+home_team,FC Tokyo,913
+home_team,Gamba Osaka,914
+home_team,Kashima Antlers,915
+home_team,Kyoto,916
+home_team,Urawa Reds,917
+home_team,Albirex Niigata,918
+home_team,Hokkaido Consadole Sapporo,919
+home_team,Okayama,920
+home_team,Yokohama FC,921
+home_team,Shimizu S-Pulse,922
+home_team,V-Varen Nagasaki,923
+home_team,Chiba,924
+home_team,Mito,925
+home_team,Kusatsu,926
+home_team,Iwaki,927
+home_team,Kofu,928
+home_team,Renofa Yamaguchi,929
+home_team,Tokushima,930
+home_team,Tochigi SC,931
+home_team,Omiya Ardija,932
+home_team,Fujieda MYFC,933
+home_team,Kumamoto,934
+home_team,Oita Trinita,935
+home_team,Vegalta Sendai,936
+home_team,Kanazawa,937
+home_team,Blaublitz,938
+home_team,Montedio Yamagata,939
+home_team,Ehime,940
+home_team,Kagoshima Utd,941
+home_team,Imabari,942
+home_team,Toyama,943
+home_team,Ulsan HD,944
+home_team,Suwon Bluewings,945
+home_team,Seoul,946
+home_team,Pohang,947
+home_team,Jeju SK,948
+home_team,Daejeon,949
+home_team,Suwon FC,950
+home_team,Incheon,951
+home_team,Daegu,952
+home_team,Jeonbuk,953
+home_team,Gwangju FC,954
+home_team,Gangwon,955
+home_team,Gimcheon Sangmu,956
+home_team,Anyang,957
+home_team,Seongnam,958
+home_team,Seoul E-Land,959
+home_team,Asan,960
+home_team,Gyeongnam,961
+home_team,Jeonnam,962
+home_team,Cheonan City,963
+home_team,Bucheon FC 1995,964
+home_team,Cheongju,965
+home_team,Ansan Greeners,966
+home_team,Gimpo FC,967
+home_team,Busan,968
+home_team,Hwaseong,969
+home_team,Al Naser,970
+home_team,Al Kuwait,971
+home_team,Al Qadisiya,972
+home_team,Al Arabi,973
+home_team,Al-Fahaheel,974
+home_team,Kazma SC,975
+home_team,Al Jahra,976
+home_team,Al Salmiya,977
+home_team,Khaitan,978
+home_team,Al Shabab,979
+home_team,Yarmouk,980
+home_team,Al Tadamon,981
+home_team,Valmiera,982
+home_team,Auda,983
+home_team,Riga FC,984
+home_team,Tukums 2000,985
+home_team,Jelgava,986
+home_team,Metta,987
+home_team,Super Nova,988
+home_team,FK Liepaja,989
+home_team,BFC Daugavpils,990
+home_team,RFS,991
+home_team,Skanste,992
+home_team,Grobina,993
+home_team,Alberts JDFS,994
+home_team,Riteriai,995
+home_team,Suduva,996
+home_team,Hegelmann,997
+home_team,Zalgiris,998
+home_team,Banga,999
+home_team,Kauno Zalgiris,1000
+home_team,Dziugas Telsiai,1001
+home_team,Siauliai FA,1002
+home_team,Dainava Alytus,1003
+home_team,FK Panevezys,1004
+home_team,Transinvest,1005
+home_team,Maghreb Fez,1006
+home_team,Union Touarga,1007
+home_team,Olympique de Safi,1008
+home_team,Youssoufia Berrechid,1009
+home_team,IR Tanger,1010
+home_team,Berkane,1011
+home_team,FAR Rabat,1012
+home_team,Wydad,1013
+home_team,Jeunesse Sportive Soualem,1014
+home_team,Renaissance Zemamra,1015
+home_team,Mouloudia Oujda,1016
+home_team,Moghreb Tetouan,1017
+home_team,Raja Casablanca,1018
+home_team,FUS Rabat,1019
+home_team,Chabab Mohammedia,1020
+home_team,Hassania Agadir,1021
+home_team,Difaa El Jadidi,1022
+home_team,COD Meknes,1023
+home_team,Wydad AC,1024
+home_team,Dcheira,1025
+home_team,Kawkab Marrakech,1026
+home_team,Yacoub El Mansour,1027
+home_team,Wealdstone,1028
+home_team,Southend,1029
+home_team,Solihull Moors,1030
+home_team,Rochdale,1031
+home_team,Maidenhead,1032
+home_team,Kidderminster,1033
+home_team,FC Halifax,1034
+home_team,Gateshead,1035
+home_team,Altrincham,1036
+home_team,Aldershot,1037
+home_team,Boreham Wood,1038
+home_team,York City,1039
+home_team,Woking,1040
+home_team,Oxford City,1041
+home_team,Hartlepool,1042
+home_team,Ebbsfleet,1043
+home_team,Eastleigh,1044
+home_team,Dorking,1045
+home_team,Dag & Red,1046
+home_team,AFC Fylde,1047
+home_team,Yeovil,1048
+home_team,Tamworth,1049
+home_team,Boston Utd,1050
+home_team,Braintree,1051
+home_team,Brackley Town,1052
+home_team,Truro,1053
+home_team,Scunthorpe,1054
+home_team,Bishop's Stortford,1055
+home_team,South Shields,1056
+home_team,Southport,1057
+home_team,Rushall,1058
+home_team,Peterborough Sports,1059
+home_team,King’s Lynn,1060
+home_team,Darlington,1061
+home_team,Chorley,1062
+home_team,Buxton,1063
+home_team,Blyth,1064
+home_team,Banbury,1065
+home_team,Warrington,1066
+home_team,Spennymoor,1067
+home_team,Scarborough,1068
+home_team,Hereford,1069
+home_team,Gloucester,1070
+home_team,Farsley,1071
+home_team,Curzon Ashton,1072
+home_team,Chester,1073
+home_team,Alfreton,1074
+home_team,Radcliffe,1075
+home_team,Marine,1076
+home_team,Needham Market,1077
+home_team,Leamington,1078
+home_team,Macclesfield,1079
+home_team,Bedford,1080
+home_team,Merthyr Town,1081
+home_team,AFC Telford,1082
+home_team,Worksop,1083
+home_team,HamKam,1084
+home_team,Brann,1085
+home_team,Aalesund,1086
+home_team,Stabaek,1087
+home_team,Tromso,1088
+home_team,Sarpsborg 08,1089
+home_team,Rosenborg,1090
+home_team,Viking,1091
+home_team,Odd,1092
+home_team,Valerenga,1093
+home_team,Stromsgodset,1094
+home_team,Sandefjord,1095
+home_team,Molde,1096
+home_team,Haugesund,1097
+home_team,Bodo/Glimt,1098
+home_team,Lillestrom,1099
+home_team,Fredrikstad,1100
+home_team,KFUM Oslo,1101
+home_team,Kristiansund,1102
+home_team,Bryne,1103
+home_team,Warta Poznan,1104
+home_team,Legia,1105
+home_team,Piast Gliwice,1106
+home_team,Stal Mielec,1107
+home_team,Rakow,1108
+home_team,Widzew Lodz,1109
+home_team,Zaglebie,1110
+home_team,Gornik Zabrze,1111
+home_team,Korona Kielce,1112
+home_team,Ruch Chorzow,1113
+home_team,Slask Wroclaw,1114
+home_team,Jagiellonia,1115
+home_team,Pogon Szczecin,1116
+home_team,Lech Poznan,1117
+home_team,LKS Lodz,1118
+home_team,Radomiak Radom,1119
+home_team,Puszcza,1120
+home_team,Cracovia,1121
+home_team,GKS Katowice,1122
+home_team,Motor Lublin,1123
+home_team,Lechia Gdansk,1124
+home_team,Wisla Plock,1125
+home_team,Arka Gdynia,1126
+home_team,Termalica B-B.,1127
+home_team,Polonia Warszawa,1128
+home_team,Chrobry Glogow,1129
+home_team,Leczna,1130
+home_team,Podbeskidzie,1131
+home_team,Pruszkow,1132
+home_team,Legnica,1133
+home_team,S. Rzeszow,1134
+home_team,Zaglebie Sosnowiec,1135
+home_team,Odra Opole,1136
+home_team,Wisla,1137
+home_team,R. Rzeszow,1138
+home_team,Tychy,1139
+home_team,S. Wola,1140
+home_team,Pogon Siedlce,1141
+home_team,Kotwica Kolobrzeg,1142
+home_team,Grodzisk M.,1143
+home_team,Wieczysta Krakow,1144
+home_team,KS Wieczysta Krakow,1145
+home_team,Polonia Bytom,1146
+home_team,Casa Pia,1147
+home_team,Arouca,1148
+home_team,Nacional,1149
+home_team,Braga,1150
+home_team,Famalicao,1151
+home_team,Moreirense,1152
+home_team,FC Porto,1153
+home_team,Estoril,1154
+home_team,AFS,1155
+home_team,Estrela,1156
+home_team,Vitoria Guimaraes,1157
+home_team,Tondela,1158
+home_team,Rio Ave,1159
+home_team,Santa Clara,1160
+home_team,Sporting CP,1161
+home_team,Alverca,1162
+home_team,Gil Vicente,1163
+home_team,Benfica,1164
+home_team,Torreense,1165
+home_team,Pacos Ferreira,1166
+home_team,Penafiel,1167
+home_team,FC Porto B,1168
+home_team,Benfica B,1169
+home_team,Academico Viseu,1170
+home_team,Oliveirense,1171
+home_team,Maritimo,1172
+home_team,Mafra,1173
+home_team,Leiria,1174
+home_team,Vilaverdense,1175
+home_team,Feirense,1176
+home_team,Os Belenenses,1177
+home_team,Leixoes,1178
+home_team,Felgueiras,1179
+home_team,Portimonense,1180
+home_team,Vizela,1181
+home_team,Chaves,1182
+home_team,Lusitania FC,1183
+home_team,Sporting CP B,1184
+home_team,SC Farense,1185
+home_team,Brighton,1186
+home_team,Newcastle,1187
+home_team,Everton,1188
+home_team,Bournemouth,1189
+home_team,Arsenal,1190
+home_team,Chelsea,1191
+home_team,Brentford,1192
+home_team,Manchester Utd,1193
+home_team,Nottingham,1194
+home_team,Wolves,1195
+home_team,Tottenham,1196
+home_team,Manchester City,1197
+home_team,Liverpool,1198
+home_team,Fulham,1199
+home_team,West Ham,1200
+home_team,Aston Villa,1201
+home_team,Crystal Palace,1202
+home_team,Osasuna B,1203
+home_team,Gimnastic,1204
+home_team,Dep. La Coruna,1205
+home_team,Unionistas,1206
+home_team,Ponferradina,1207
+home_team,Fuenlabrada,1208
+home_team,Lugo,1209
+home_team,SD Logrones,1210
+home_team,R. Union,1211
+home_team,Real Sociedad B,1212
+home_team,Rayo Majadahonda,1213
+home_team,Celta Vigo B,1214
+home_team,Barcelona B,1215
+home_team,Teruel,1216
+home_team,Sestao,1217
+home_team,Sabadell,1218
+home_team,Cornella,1219
+home_team,Arenteiro,1220
+home_team,Tarazona,1221
+home_team,Cultural Leonesa,1222
+home_team,Amorebieta,1223
+home_team,Ath Bilbao B,1224
+home_team,Barakaldo,1225
+home_team,Andorra,1226
+home_team,Gimnastica Segoviana,1227
+home_team,Zamora,1228
+home_team,Ourense CF,1229
+home_team,Real Madrid B,1230
+home_team,Pontevedra,1231
+home_team,Merida AD,1232
+home_team,AD Merida,1233
+home_team,Guadalajara,1234
+home_team,Racing Club Ferrol,1235
+home_team,Arenas Getxo,1236
+home_team,Real Aviles,1237
+home_team,Tenerife,1238
+home_team,CF Talavera,1239
+home_team,Cacereno,1240
+home_team,Castellon,1241
+home_team,Atl. Madrid B,1242
+home_team,Cordoba,1243
+home_team,Baleares,1244
+home_team,Alcoyano,1245
+home_team,Recreativo Huelva,1246
+home_team,Granada CF B,1247
+home_team,San Fernando,1248
+home_team,Sanluqueno,1249
+home_team,Malaga,1250
+home_team,Linares,1251
+home_team,UD Ibiza,1252
+home_team,Murcia,1253
+home_team,CF Intercity,1254
+home_team,Algeciras,1255
+home_team,Ceuta,1256
+home_team,Melilla,1257
+home_team,Antequera,1258
+home_team,Marbella,1259
+home_team,Hercules,1260
+home_team,Betis B,1261
+home_team,Yeclano,1262
+home_team,Sevilla FC B,1263
+home_team,Alcorcon,1264
+home_team,Villarreal B,1265
+home_team,Torremolinos,1266
+home_team,FC Cartagena SAD,1267
+home_team,CE Europa,1268
+home_team,Eldense,1269
+home_team,FC Rapid Bucuresti,1270
+home_team,Otelul,1271
+home_team,FC Hermannstadt,1272
+home_team,CFR Cluj,1273
+home_team,Petrolul,1274
+home_team,U Craiova 1948,1275
+home_team,FC Voluntari,1276
+home_team,Din. Bucuresti,1277
+home_team,UTA Arad,1278
+home_team,Sepsi Sf. Gheorghe,1279
+home_team,FCSB,1280
+home_team,Farul Constanta,1281
+home_team,U. Cluj,1282
+home_team,Poli Iasi,1283
+home_team,Univ. Craiova,1284
+home_team,FC Botosani,1285
+home_team,Unirea Slobozia,1286
+home_team,Gloria Buzau,1287
+home_team,Metaloglobus Bucharest,1288
+home_team,FC Arges,1289
+home_team,Csikszereda M. Ciuc,1290
+home_team,Dinamo Bucuresti,1291
+home_team,Chindia Targoviste,1292
+home_team,Dynamo Moscow,1293
+home_team,Akhmat Grozny,1294
+home_team,Lokomotiv Moscow,1295
+home_team,Pari NN,1296
+home_team,Ural,1297
+home_team,Spartak Moscow,1298
+home_team,Sochi,1299
+home_team,FK Rostov,1300
+home_team,Krylya Sovetov,1301
+home_team,Fakel Voronezh,1302
+home_team,Rubin Kazan,1303
+home_team,Krasnodar,1304
+home_team,Orenburg,1305
+home_team,CSKA Moscow,1306
+home_team,Baltika,1307
+home_team,Zenit,1308
+home_team,Khimki,1309
+home_team,Akron Togliatti,1310
+home_team,Dynamo Makhachkala,1311
+home_team,R. Volgograd,1312
+home_team,Al Ahli SC,1313
+home_team,Al Taee,1314
+home_team,Al Fayha,1315
+home_team,Al Fateh,1316
+home_team,Al Riyadh,1317
+home_team,Al Raed,1318
+home_team,Al Ettifaq,1319
+home_team,Abha,1320
+home_team,Damac,1321
+home_team,Al Khaleej,1322
+home_team,Al Wehda,1323
+home_team,Al Okhdood,1324
+home_team,Al Nassr,1325
+home_team,Al Hazem,1326
+home_team,Al Hilal,1327
+home_team,Al Taawon,1328
+home_team,Al Kholood,1329
+home_team,Al Orubah,1330
+home_team,Al Qadsiah,1331
+home_team,Neom SC,1332
+home_team,Al Najma,1333
+home_team,Al Jabalain,1334
+home_team,Al-Faisaly,1335
+home_team,Al Batin,1336
+home_team,Al Bukiryah,1337
+home_team,Hajer,1338
+home_team,Al Jandal,1339
+home_team,Al Adalah,1340
+home_team,Al Taraji,1341
+home_team,Ohod,1342
+home_team,Al Safa,1343
+home_team,Al-Qaisumah,1344
+home_team,Al Ain,1345
+home_team,Jeddah,1346
+home_team,Al Jubail,1347
+home_team,Al Zulfi,1348
+home_team,Al-Ula,1349
+home_team,Al Diriyah,1350
+home_team,Al Anwar,1351
+home_team,Stirling,1352
+home_team,Queen of South,1353
+home_team,Montrose,1354
+home_team,Hamilton,1355
+home_team,Falkirk,1356
+home_team,Annan,1357
+home_team,Kelty Hearts,1358
+home_team,Edinburgh City,1359
+home_team,Cove Rangers,1360
+home_team,Alloa,1361
+home_team,Stenhousemuir,1362
+home_team,Inverness,1363
+home_team,Dumbarton,1364
+home_team,Arbroath,1365
+home_team,Peterhead,1366
+home_team,East Fife,1367
+home_team,Clyde,1368
+home_team,Forfar Athletic,1369
+home_team,Spartans,1370
+home_team,Airdrieonians,1371
+home_team,Elgin City,1372
+home_team,Bonnyrigg Rose,1373
+home_team,Stranraer,1374
+home_team,East Kilbride,1375
+home_team,Brora Rangers,1376
+home_team,Partick Thistle,1377
+home_team,Morton,1378
+home_team,Dunfermline,1379
+home_team,Raith,1380
+home_team,Queen's Park,1381
+home_team,Dundee Utd,1382
+home_team,Ayr,1383
+home_team,Livingston,1384
+home_team,St Johnstone,1385
+home_team,Ross County,1386
+home_team,Kilmarnock,1387
+home_team,Dundee FC,1388
+home_team,Celtic,1389
+home_team,Hibernian,1390
+home_team,St. Mirren,1391
+home_team,Rangers,1392
+home_team,Hearts,1393
+home_team,Motherwell,1394
+home_team,Aberdeen,1395
+home_team,Coruxo FC,1396
+home_team,Guijuelo,1397
+home_team,Oviedo B,1398
+home_team,Rayo Cantabria,1399
+home_team,Marino de Luanco,1400
+home_team,Arandina,1401
+home_team,Valladolid Promesas,1402
+home_team,Racing Club Villalbes,1403
+home_team,Cayon,1404
+home_team,Langreo,1405
+home_team,Torrelavega,1406
+home_team,Dep. Fabril,1407
+home_team,Covadonga,1408
+home_team,Compostela,1409
+home_team,Escobedo,1410
+home_team,Numancia,1411
+home_team,Bergantinos,1412
+home_team,Salamanca,1413
+home_team,Real Avila,1414
+home_team,Llanera,1415
+home_team,Laredo,1416
+home_team,Atl. Astorga,1417
+home_team,Lealtad,1418
+home_team,UD Ourense,1419
+home_team,UD Samano,1420
+home_team,Burgos CF B,1421
+home_team,Sarriana,1422
+home_team,Naxara,1423
+home_team,Brea,1424
+home_team,Calahorra,1425
+home_team,Gernika,1426
+home_team,Real Sociedad C,1427
+home_team,Tudelano,1428
+home_team,UD Logrones,1429
+home_team,Utebo FC,1430
+home_team,AD San Juan,1431
+home_team,Barbastro,1432
+home_team,Valle Egues,1433
+home_team,Mutilvera,1434
+home_team,Izarra,1435
+home_team,Zaragoza B,1436
+home_team,Alaves B,1437
+home_team,Ejea,1438
+home_team,Eibar B,1439
+home_team,Subiza,1440
+home_team,Anguiano,1441
+home_team,Alfaro,1442
+home_team,Basconia,1443
+home_team,Ebro,1444
+home_team,Beasain,1445
+home_team,Penya Indep.,1446
+home_team,Saguntino,1447
+home_team,Valencia B,1448
+home_team,Alzira,1449
+home_team,Cerdanyola,1450
+home_team,La Nucia,1451
+home_team,Terrassa,1452
+home_team,Manresa,1453
+home_team,Andratx,1454
+home_team,Torrent,1455
+home_team,Som Maresme,1456
+home_team,Sant Andreu,1457
+home_team,Pena Deportiva,1458
+home_team,Lleida,1459
+home_team,Formentera,1460
+home_team,Espanyol B,1461
+home_team,SD Ibiza,1462
+home_team,Ilicitano,1463
+home_team,Olot,1464
+home_team,Mallorca B,1465
+home_team,Poblense,1466
+home_team,Atletic Lleida,1467
+home_team,Reus FCR,1468
+home_team,Castellon B,1469
+home_team,Porreres,1470
+home_team,Girona B,1471
+home_team,Orihuela,1472
+home_team,La Union,1473
+home_team,FC Cartagena SAD B,1474
+home_team,El Palo,1475
+home_team,Antoniano,1476
+home_team,Aguilas FC,1477
+home_team,Velez,1478
+home_team,UCAM Murcia,1479
+home_team,San Roque,1480
+home_team,Racing Cartagena MM,1481
+home_team,Linense,1482
+home_team,CD Estepona,1483
+home_team,Cadiz CF B,1484
+home_team,Ciudad Real,1485
+home_team,Xerez CD,1486
+home_team,Villanovense,1487
+home_team,Xerez D.F.C.,1488
+home_team,Don Benito,1489
+home_team,Deportiva Minera,1490
+home_team,Almeria B,1491
+home_team,Puente Genil,1492
+home_team,CD Extremadura,1493
+home_team,Lorca Deportiva,1494
+home_team,Jaen,1495
+home_team,Malaga B,1496
+home_team,Malagueno,1497
+home_team,CD Badajoz,1498
+home_team,Ursaria,1499
+home_team,Llerenense,1500
+home_team,Montijo,1501
+home_team,Illescas,1502
+home_team,Mensajero,1503
+home_team,Union Adarve,1504
+home_team,Getafe B,1505
+home_team,Atl. Paso,1506
+home_team,San Sebastian Reyes,1507
+home_team,Navalcarnero,1508
+home_team,Tenerife B,1509
+home_team,Yaiza,1510
+home_team,Real Madrid C,1511
+home_team,Colonia M.,1512
+home_team,CD Coria,1513
+home_team,Conquense,1514
+home_team,CD Mostoles,1515
+home_team,Rayo Vallecano B,1516
+home_team,Las Palmas B,1517
+home_team,Quintanar del Rey,1518
+home_team,Socuellamos,1519
+home_team,RSD Alcala,1520
+home_team,Vozdovac,1521
+home_team,TSC,1522
+home_team,Sp. Subotica,1523
+home_team,Cukaricki,1524
+home_team,Napredak,1525
+home_team,Novi Pazar,1526
+home_team,Crvena zvezda,1527
+home_team,Mladost,1528
+home_team,Radnicki Nis,1529
+home_team,Zeleznicar Pancevo,1530
+home_team,Javor,1531
+home_team,IMT Novi Beograd,1532
+home_team,Vojvodina,1533
+home_team,Radnicki 1923,1534
+home_team,Radnik,1535
+home_team,Partizan,1536
+home_team,Tekstilac Odzaci,1537
+home_team,Jedinstvo U.,1538
+home_team,OFK Beograd Mozzart Bet,1539
+home_team,Mura,1540
+home_team,Koper,1541
+home_team,Bravo,1542
+home_team,Aluminij,1543
+home_team,Radomlje,1544
+home_team,O. Ljubljana,1545
+home_team,Domzale,1546
+home_team,Celje,1547
+home_team,Maribor,1548
+home_team,Rogaska,1549
+home_team,Nafta,1550
+home_team,Primorje,1551
+home_team,Taunton,1552
+home_team,St. Albans,1553
+home_team,Maidstone,1554
+home_team,Hemel Hempstead,1555
+home_team,Eastbourne Boro,1556
+home_team,Dover,1557
+home_team,Dartford,1558
+home_team,Chippenham,1559
+home_team,Chelmsford,1560
+home_team,Weston-super-Mare,1561
+home_team,Worthing,1562
+home_team,Tonbridge,1563
+home_team,Weymouth,1564
+home_team,Welling,1565
+home_team,Torquay,1566
+home_team,Slough,1567
+home_team,Havant & W,1568
+home_team,Farnborough,1569
+home_team,Bath,1570
+home_team,Aveley,1571
+home_team,Hampton & Richmond,1572
+home_team,Enfield Town,1573
+home_team,Salisbury,1574
+home_team,Hornchurch,1575
+home_team,Chesham,1576
+home_team,Horsham FC,1577
+home_team,AFC Totton,1578
+home_team,Sevilla,1579
+home_team,Almeria,1580
+home_team,Real Sociedad,1581
+home_team,Las Palmas,1582
+home_team,Ath Bilbao,1583
+home_team,Villarreal,1584
+home_team,Getafe,1585
+home_team,Celta Vigo,1586
+home_team,Cadiz CF,1587
+home_team,Atl. Madrid,1588
+home_team,Valencia,1589
+home_team,Mallorca,1590
+home_team,Osasuna,1591
+home_team,Girona,1592
+home_team,Betis,1593
+home_team,Barcelona,1594
+home_team,Granada CF,1595
+home_team,Alaves,1596
+home_team,Rayo Vallecano,1597
+home_team,Real Madrid,1598
+home_team,Valladolid,1599
+home_team,Espanyol,1600
+home_team,Leganes,1601
+home_team,Elche,1602
+home_team,Levante,1603
+home_team,Oviedo,1604
+home_team,Zaragoza,1605
+home_team,Racing Santander,1606
+home_team,Burgos CF,1607
+home_team,Albacete,1608
+home_team,Mirandes,1609
+home_team,Eibar,1610
+home_team,Gijon,1611
+home_team,Huesca,1612
+home_team,Dep. A Coruna,1613
+home_team,Djurgarden,1614
+home_team,Malmo FF,1615
+home_team,Hammarby,1616
+home_team,Norrkoping,1617
+home_team,Goteborg,1618
+home_team,Halmstad,1619
+home_team,Mjallby,1620
+home_team,Elfsborg,1621
+home_team,Degerfors,1622
+home_team,Brommapojkarna,1623
+home_team,Hacken,1624
+home_team,Sirius,1625
+home_team,Kalmar,1626
+home_team,Varberg,1627
+home_team,Varnamo,1628
+home_team,AIK,1629
+home_team,GAIS,1630
+home_team,Vasteras SK,1631
+home_team,Oster,1632
+home_team,Sundsvall,1633
+home_team,Brage,1634
+home_team,Utsikten,1635
+home_team,Trelleborg,1636
+home_team,Ostersund,1637
+home_team,Jonkoping,1638
+home_team,Orgryte,1639
+home_team,Helsingborg,1640
+home_team,Skovde AIK,1641
+home_team,Orebro,1642
+home_team,Landskrona,1643
+home_team,Gefle,1644
+home_team,AFC Eskilstuna,1645
+home_team,Sandviken,1646
+home_team,Oddevold,1647
+home_team,Falkenberg,1648
+home_team,Umea FC,1649
+home_team,Winterthur,1650
+home_team,St. Gallen,1651
+home_team,Grasshoppers,1652
+home_team,Zurich,1653
+home_team,Young Boys,1654
+home_team,Lausanne Ouchy,1655
+home_team,Servette,1656
+home_team,Lugano,1657
+home_team,Lausanne,1658
+home_team,Yverdon,1659
+home_team,Luzern,1660
+home_team,Basel,1661
+home_team,Sion,1662
+home_team,Thun,1663
+home_team,Aarau,1664
+home_team,Xamax,1665
+home_team,Vaduz,1666
+home_team,Bellinzona,1667
+home_team,Stade Nyonnais,1668
+home_team,Schaffhausen,1669
+home_team,Baden,1670
+home_team,Wil,1671
+home_team,Etoile,1672
+home_team,Rapperswil-Jona,1673
+home_team,Etoile-Carouge,1674
+home_team,Police Tero,1675
+home_team,Nakhon Pathom,1676
+home_team,Uthai Thani,1677
+home_team,Khonkaen Utd.,1678
+home_team,Trat FC,1679
+home_team,Prachuap,1680
+home_team,Muang Thong Utd,1681
+home_team,Lamphun Warrior,1682
+home_team,Port MTI FC,1683
+home_team,Pathum United,1684
+home_team,Ratchaburi,1685
+home_team,Chiangrai Utd,1686
+home_team,Bangkok Utd,1687
+home_team,Sukhothai,1688
+home_team,Buriram,1689
+home_team,Chonburi,1690
+home_team,Rayong FC,1691
+home_team,Nong Bua Pitchaya,1692
+home_team,Nakhon Ratchasima FC,1693
+home_team,Ayutthaya Utd,1694
+home_team,Kanchanaburi,1695
+home_team,Trabzonspor,1696
+home_team,Kayserispor,1697
+home_team,Pendikspor,1698
+home_team,Konyaspor,1699
+home_team,Kasimpasa,1700
+home_team,Fenerbahce,1701
+home_team,Sivasspor,1702
+home_team,Adana Demirspor,1703
+home_team,Alanyaspor,1704
+home_team,Karagumruk,1705
+home_team,Istanbulspor AS,1706
+home_team,Antalyaspor,1707
+home_team,Hatayspor,1708
+home_team,Rizespor,1709
+home_team,Galatasaray,1710
+home_team,Besiktas,1711
+home_team,Gaziantep,1712
+home_team,Basaksehir,1713
+home_team,Ankaragucu,1714
+home_team,Samsunspor,1715
+home_team,Bodrumspor,1716
+home_team,Goztepe,1717
+home_team,Eyupspor,1718
+home_team,Kocaelispor,1719
+home_team,Genclerbirligi,1720
+home_team,Boluspor,1721
+home_team,Keciorengucu,1722
+home_team,Giresunspor,1723
+home_team,Tuzlaspor,1724
+home_team,Erzurumspor,1725
+home_team,Sanliurfaspor,1726
+home_team,Corum,1727
+home_team,Adanaspor AS,1728
+home_team,Umraniyespor,1729
+home_team,Sakaryaspor,1730
+home_team,Manisa FK,1731
+home_team,Bandirmaspor,1732
+home_team,Altay,1733
+home_team,Yeni Malatyaspor,1734
+home_team,Igdir FK,1735
+home_team,Amedspor,1736
+home_team,Erokspor,1737
+home_team,Serik Spor,1738
+home_team,Sariyer,1739
+home_team,Vanspor FK,1740
+home_team,Gent W,1741
+home_team,Charleroi W,1742
+home_team,Mechelen W,1743
+home_team,Leuven W,1744
+home_team,Club Brugge W,1745
+home_team,Genk W,1746
+home_team,Waregem W,1747
+home_team,RSC Anderlecht W,1748
+home_team,Femina Woluwe W,1749
+home_team,St. Liege W,1750
+home_team,Westerlo W,1751
+home_team,Le Havre W,1752
+home_team,Reims W,1753
+home_team,Montpellier W,1754
+home_team,Lille W,1755
+home_team,Fleury 91 W,1756
+home_team,Bordeaux W,1757
+home_team,Paris FC W,1758
+home_team,St Etienne W,1759
+home_team,Guingamp W,1760
+home_team,Dijon W,1761
+home_team,PSG W,1762
+home_team,Lyon W,1763
+home_team,Strasbourg W,1764
+home_team,Nantes W,1765
+home_team,Lens W,1766
+home_team,Marseille W,1767
+home_team,Freiburg W,1768
+home_team,Hoffenheim W,1769
+home_team,1.FC Nurnberg W,1770
+home_team,Koln W,1771
+home_team,Wolfsburg W,1772
+home_team,SGS Essen W,1773
+home_team,RB Leipzig W,1774
+home_team,Bayer Leverkusen W,1775
+home_team,Werder Bremen W,1776
+home_team,Duisburg W,1777
+home_team,Eintracht Frankfurt W,1778
+home_team,Bayern Munich W,1779
+home_team,Potsdam W,1780
+home_team,Jena W,1781
+home_team,Hamburger SV W,1782
+home_team,Union Berlin W,1783
+home_team,Rosengard W,1784
+home_team,Hacken W,1785
+home_team,Kristianstad W,1786
+home_team,KIF Orebro W,1787
+home_team,IF Brommapojkarna W,1788
+home_team,Hammarby W,1789
+home_team,Norrkoping W,1790
+home_team,Linkoping W,1791
+home_team,Uppsala W,1792
+home_team,Kalmar W,1793
+home_team,Vittsjo W,1794
+home_team,Vaxjo DFF W,1795
+home_team,Pitea W,1796
+home_team,Djurgarden W,1797
+home_team,AIK W,1798
+home_team,Trelleborg W,1799
+home_team,Alingsas W,1800
+home_team,Malmo FF W,1801
+away_team,ES Setif,0
+away_team,Constantine,1
+away_team,Oran,2
+away_team,Kabylie,3
+away_team,Ben Aknoun,4
+away_team,Biskra,5
+away_team,Paradou,6
+away_team,ASO Chlef,7
+away_team,MC Alger,8
+away_team,Saoura,9
+away_team,El Bayadh,10
+away_team,Magra,11
+away_team,US Souf,12
+away_team,USM Alger,13
+away_team,Khenchela,14
+away_team,CR Belouizdad,15
+away_team,Olympique Akbou,16
+away_team,Mostaganem,17
+away_team,Rouisset,18
+away_team,Central Coast Mariners,19
+away_team,Melbourne Victory,20
+away_team,Western United,21
+away_team,Brisbane Roar,22
+away_team,Wellington Phoenix,23
+away_team,Newcastle Jets,24
+away_team,Sydney FC,25
+away_team,Perth Glory,26
+away_team,Macarthur FC,27
+away_team,Melbourne City,28
+away_team,Adelaide United,29
+away_team,WS Wanderers,30
+away_team,Auckland FC,31
+away_team,SK Rapid,32
+away_team,Salzburg,33
+away_team,A. Lustenau,34
+away_team,A. Klagenfurt,35
+away_team,BW Linz,36
+away_team,Sturm Graz,37
+away_team,LASK,38
+away_team,Altach,39
+away_team,Tirol,40
+away_team,Hartberg,41
+away_team,Austria Vienna,42
+away_team,Wolfsberger AC,43
+away_team,Grazer AK,44
+away_team,Ried,45
+away_team,Horn,46
+away_team,Kapfenberg,47
+away_team,First Vienna,48
+away_team,Amstetten,49
+away_team,Dornbirn,50
+away_team,Stripfing,51
+away_team,St. Polten,52
+away_team,Admira,53
+away_team,Leoben,54
+away_team,Lafnitz,55
+away_team,Floridsdorfer AC,56
+away_team,Bregenz,57
+away_team,Sturm Graz II,58
+away_team,Liefering,59
+away_team,SK Rapid II,60
+away_team,ASK Voitsberg,61
+away_team,A. Salzburg,62
+away_team,Hertha Wels,63
+away_team,Austria Vienna (Am),64
+away_team,Turan Tovuz,65
+away_team,Zira,66
+away_team,Sumqayit,67
+away_team,Gabala,68
+away_team,Neftci Baku,69
+away_team,Kapaz,70
+away_team,Sabail,71
+away_team,Araz,72
+away_team,Sabah Baku,73
+away_team,Qarabag,74
+away_team,Shamakhi,75
+away_team,Karvan,76
+away_team,Imisli FK,77
+away_team,Mingachevir,78
+away_team,Anderlecht,79
+away_team,Genk,80
+away_team,Leuven,81
+away_team,Westerlo,82
+away_team,Cercle Brugge KSV,83
+away_team,Kortrijk,84
+away_team,St. Liege,85
+away_team,KV Mechelen,86
+away_team,Royale Union SG,87
+away_team,Charleroi,88
+away_team,Eupen,89
+away_team,RWDM Brussels,90
+away_team,Club Brugge KV,91
+away_team,Gent,92
+away_team,St. Truiden,93
+away_team,Antwerp,94
+away_team,Beerschot VA,95
+away_team,Dender,96
+away_team,Waregem,97
+away_team,RAAL La Louviere,98
+away_team,RFC Liege,99
+away_team,Lommel SK,100
+away_team,Sao Paulo,101
+away_team,Fluminense,102
+away_team,Goias,103
+away_team,Cuiaba,104
+away_team,Internacional,105
+away_team,Bahia,106
+away_team,Santos,107
+away_team,Vasco,108
+away_team,Cruzeiro,109
+away_team,Coritiba,110
+away_team,Athletico-PR,111
+away_team,Bragantino,112
+away_team,America MG,113
+away_team,Fortaleza,114
+away_team,Flamengo RJ,115
+away_team,Atletico-MG,116
+away_team,Palmeiras,117
+away_team,Gremio,118
+away_team,Corinthians,119
+away_team,Botafogo RJ,120
+away_team,Juventude,121
+away_team,Criciuma,122
+away_team,Atletico GO,123
+away_team,Vitoria,124
+away_team,Sport Recife,125
+away_team,Mirassol,126
+away_team,Ceara,127
+away_team,Avai,128
+away_team,Novorizontino,129
+away_team,Chapecoense-SC,130
+away_team,Botafogo SP,131
+away_team,Tombense,132
+away_team,ABC,133
+away_team,Ponte Preta,134
+away_team,CRB,135
+away_team,Guarani,136
+away_team,Sampaio Correa,137
+away_team,Ituano,138
+away_team,Londrina,139
+away_team,Vila Nova FC,140
+away_team,Paysandu PA,141
+away_team,Amazonas,142
+away_team,Operario-PR,143
+away_team,Brusque,144
+away_team,Remo,145
+away_team,Athletic Club,146
+away_team,Volta Redonda,147
+away_team,Ferroviaria,148
+away_team,Beroe,149
+away_team,Ludogorets,150
+away_team,CSKA 1948 Sofia,151
+away_team,Cherno More,152
+away_team,Botev Plovdiv,153
+away_team,CSKA Sofia,154
+away_team,Botev Vratsa,155
+away_team,Slavia Sofia,156
+away_team,Krumovgrad,157
+away_team,Pirin Blagoevgrad,158
+away_team,Etar,159
+away_team,Levski Sofia,160
+away_team,Lok. Plovdiv,161
+away_team,Hebar,162
+away_team,Arda,163
+away_team,Lok. Sofia,164
+away_team,Spartak Varna,165
+away_team,Septemvri Sofia,166
+away_team,Montana,167
+away_team,Dobrudzha,168
+away_team,Yantra Gabrovo,169
+away_team,Southampton,170
+away_team,QPR,171
+away_team,Birmingham,172
+away_team,Rotherham,173
+away_team,Huddersfield,174
+away_team,Hull,175
+away_team,Millwall,176
+away_team,Preston,177
+away_team,West Brom,178
+away_team,Ipswich,179
+away_team,Coventry,180
+away_team,Cardiff,181
+away_team,Norwich,182
+away_team,Swansea,183
+away_team,Plymouth,184
+away_team,Blackburn,185
+away_team,Sunderland,186
+away_team,Bristol City,187
+away_team,Stoke,188
+away_team,Sheffield Wed,189
+away_team,Leicester,190
+away_team,Middlesbrough,191
+away_team,Leeds,192
+away_team,Watford,193
+away_team,Sheffield Utd,194
+away_team,Derby,195
+away_team,Portsmouth,196
+away_team,Burnley,197
+away_team,Oxford Utd,198
+away_team,Luton,199
+away_team,Wrexham,200
+away_team,Charlton,201
+away_team,Changchun Yatai,202
+away_team,Shanghai Port,203
+away_team,Nantong Zhiyun,204
+away_team,Meizhou Hakka,205
+away_team,Cangzhou,206
+away_team,Qingdao Hainiu,207
+away_team,Shandong Taishan,208
+away_team,Chengdu Rongcheng,209
+away_team,Beijing Guoan,210
+away_team,Zhejiang Professional,211
+away_team,Shanghai Shenhua,212
+away_team,Dalian Pro,213
+away_team,Shenzhen,214
+away_team,Wuhan Three Towns,215
+away_team,Tianjin Jinmen Tiger,216
+away_team,Henan Songshan Longmen,217
+away_team,Shenzhen Xinpengcheng,218
+away_team,Qingdao West Coast,219
+away_team,Dalian Yingbo,220
+away_team,Yunnan Yukun,221
+away_team,Plzen,222
+away_team,Hradec Kralove,223
+away_team,Zlin,224
+away_team,Bohemians,225
+away_team,Ceske Budejovice,226
+away_team,Jablonec,227
+away_team,Ostrava,228
+away_team,Sigma Olomouc,229
+away_team,Slovacko,230
+away_team,Karvina,231
+away_team,Sparta Prague,232
+away_team,Teplice,233
+away_team,Slavia Prague,234
+away_team,Liberec,235
+away_team,Mlada Boleslav,236
+away_team,FK Pardubice,237
+away_team,Dukla Prague,238
+away_team,Taborsko,239
+away_team,Artis Brno,240
+away_team,Opava,241
+away_team,Kromeriz,242
+away_team,Zizkov,243
+away_team,Pribram,244
+away_team,Sigma Olomouc B,245
+away_team,Vlasim,246
+away_team,Sparta Prague B,247
+away_team,Varnsdorf,248
+away_team,Vyskov,249
+away_team,Chrudim,250
+away_team,Prostejov,251
+away_team,Jihlava,252
+away_team,Brno,253
+away_team,Slavia Prague B,254
+away_team,Ostrava B,255
+away_team,Usti nad Labem,256
+away_team,Domazlice,257
+away_team,Ceske Budejovice B,258
+away_team,Taborsko akademie,259
+away_team,Dukla Prague B,260
+away_team,Bohemians 1905 B,261
+away_team,Pisek,262
+away_team,Motorlet Prague,263
+away_team,FK Robstav,264
+away_team,Karlovy Vary,265
+away_team,Loko Praha,266
+away_team,Povltavska FA,267
+away_team,Kraluv Dvur,268
+away_team,Admira Prague,269
+away_team,Plzen B,270
+away_team,Hostoun,271
+away_team,Velvary,272
+away_team,Petrin Plzen,273
+away_team,Chomutov,274
+away_team,Aritma Prague,275
+away_team,Pribram B,276
+away_team,SK Kladno,277
+away_team,Slavia Prague U20,278
+away_team,Pardubice B,279
+away_team,Zapy,280
+away_team,Prepere,281
+away_team,FK Ceska Lipa,282
+away_team,Banik Most-Sous,283
+away_team,Jablonec B,284
+away_team,Liberec B,285
+away_team,Chlumec nad Cidlinou,286
+away_team,Hradec Kralove B,287
+away_team,Brozany,288
+away_team,Teplice B,289
+away_team,Kolin,290
+away_team,Zivanice,291
+away_team,Mlada Boleslav B,292
+away_team,Usti nad Orlici,293
+away_team,Benatky n. Jiz.,294
+away_team,Neratovice,295
+away_team,Velke Hamry,296
+away_team,Hvidovre IF,297
+away_team,FC Copenhagen,298
+away_team,Brondby,299
+away_team,Randers FC,300
+away_team,Vejle,301
+away_team,Viborg,302
+away_team,Lyngby,303
+away_team,Silkeborg,304
+away_team,Odense,305
+away_team,Nordsjaelland,306
+away_team,Midtjylland,307
+away_team,Aarhus,308
+away_team,Aalborg,309
+away_team,Sonderjyske,310
+away_team,Fredericia,311
+away_team,Koge,312
+away_team,Naestved,313
+away_team,Horsens,314
+away_team,Hobro,315
+away_team,Vendsyssel,316
+away_team,Hillerod,317
+away_team,B.93,318
+away_team,Helsingor,319
+away_team,Kolding IF,320
+away_team,Roskilde,321
+away_team,Esbjerg,322
+away_team,Aarhus Fremad,323
+away_team,Middelfart,324
+away_team,National Bank Egypt,325
+away_team,El Ismaily,326
+away_team,Al Masry,327
+away_team,El Gouna,328
+away_team,Baladiyat El Mahalla,329
+away_team,Enppi,330
+away_team,Ceramica Cleopatra,331
+away_team,Zamalek,332
+away_team,Modern Sport,333
+away_team,Arab Contractors,334
+away_team,Pyramids,335
+away_team,Smouha,336
+away_team,El Daklyeh,337
+away_team,ZED,338
+away_team,El Gaish,339
+away_team,Al Ittihad,340
+away_team,Pharco,341
+away_team,Al Ahly,342
+away_team,Petrojet,343
+away_team,Ghazl El Mahallah,344
+away_team,Haras El Hodood,345
+away_team,Kahrabaa Ismailia,346
+away_team,Wadi Degla,347
+away_team,Exeter,348
+away_team,Cheltenham,349
+away_team,Peterborough,350
+away_team,Bristol Rovers,351
+away_team,Stevenage,352
+away_team,Wigan,353
+away_team,Leyton Orient,354
+away_team,Fleetwood,355
+away_team,Lincoln,356
+away_team,Burton,357
+away_team,Port Vale,358
+away_team,Northampton,359
+away_team,Shrewsbury,360
+away_team,Reading,361
+away_team,Carlisle,362
+away_team,Wycombe,363
+away_team,Cambridge Utd,364
+away_team,Blackpool,365
+away_team,Bolton,366
+away_team,Barnsley,367
+away_team,Mansfield,368
+away_team,Crawley,369
+away_team,Stockport County,370
+away_team,AFC Wimbledon,371
+away_team,Bradford City,372
+away_team,Doncaster,373
+away_team,MK Dons,374
+away_team,Barrow,375
+away_team,Notts Co,376
+away_team,Gillingham,377
+away_team,Walsall,378
+away_team,Salford,379
+away_team,Harrogate,380
+away_team,Newport,381
+away_team,Crewe,382
+away_team,Grimsby,383
+away_team,Tranmere,384
+away_team,Morecambe,385
+away_team,Forest Green,386
+away_team,Accrington,387
+away_team,Colchester,388
+away_team,Sutton,389
+away_team,Swindon,390
+away_team,Bromley,391
+away_team,Chesterfield,392
+away_team,Oldham,393
+away_team,Barnet,394
+away_team,Harju JK Laagri,395
+away_team,Kalju,396
+away_team,Narva,397
+away_team,Parnu JK Vaprus,398
+away_team,Kuressaare,399
+away_team,Tammeka,400
+away_team,Tallinna Kalev,401
+away_team,Flora,402
+away_team,Levadia,403
+away_team,Paide,404
+away_team,Nomme Utd,405
+away_team,Lahti,406
+away_team,Haka,407
+away_team,Ilves,408
+away_team,Inter Turku,409
+away_team,AC Oulu,410
+away_team,Honka,411
+away_team,KuPS,412
+away_team,HJK,413
+away_team,SJK,414
+away_team,VPS,415
+away_team,Mariehamn,416
+away_team,KTP,417
+away_team,Ekenas,418
+away_team,Gnistan,419
+away_team,Jaro,420
+away_team,TPS,421
+away_team,JaPS,422
+away_team,JJK Jyvaskyla,423
+away_team,Mikkeli,424
+away_team,SalPa,425
+away_team,KaPa,426
+away_team,SJK Akatemia,427
+away_team,HIFK,428
+away_team,KPV Kokkola,429
+away_team,Jippo,430
+away_team,PK-35,431
+away_team,Klubi 04,432
+away_team,Lille,433
+away_team,Lorient,434
+away_team,Reims,435
+away_team,Lens,436
+away_team,Lyon,437
+away_team,Metz,438
+away_team,Toulouse,439
+away_team,Le Havre,440
+away_team,Monaco,441
+away_team,Marseille,442
+away_team,PSG,443
+away_team,Montpellier,444
+away_team,Strasbourg,445
+away_team,Clermont,446
+away_team,Nice,447
+away_team,Nantes,448
+away_team,Rennes,449
+away_team,Brest,450
+away_team,St Etienne,451
+away_team,Angers,452
+away_team,Auxerre,453
+away_team,Paris FC,454
+away_team,Rodez,455
+away_team,Grenoble,456
+away_team,Caen,457
+away_team,Troyes,458
+away_team,Bastia,459
+away_team,Guingamp,460
+away_team,Quevilly Rouen,461
+away_team,Bordeaux,462
+away_team,Laval,463
+away_team,AC Ajaccio,464
+away_team,Dunkerque,465
+away_team,Pau FC,466
+away_team,Valenciennes,467
+away_team,Amiens,468
+away_team,Annecy,469
+away_team,Concarneau,470
+away_team,Red Star,471
+away_team,Martigues,472
+away_team,Le Mans,473
+away_team,Nancy,474
+away_team,Boulogne,475
+away_team,Rouen,476
+away_team,GOAL FC,477
+away_team,Avranches,478
+away_team,Villefranche,479
+away_team,Chateauroux,480
+away_team,Cholet,481
+away_team,Nimes,482
+away_team,Epinal,483
+away_team,Versailles,484
+away_team,Niort,485
+away_team,Marignane GCB,486
+away_team,Dijon,487
+away_team,Sochaux,488
+away_team,Orleans,489
+away_team,Aubagne,490
+away_team,Bourg en Bresse,491
+away_team,Paris 13 Atl.,492
+away_team,Fleury-Merogis,493
+away_team,Stade Briochin,494
+away_team,Le Puy-en-Velay,495
+away_team,Bayern Munich,496
+away_team,FC Koln,497
+away_team,Heidenheim,498
+away_team,Bochum,499
+away_team,Freiburg,500
+away_team,RB Leipzig,501
+away_team,B. Monchengladbach,502
+away_team,Mainz,503
+away_team,Darmstadt,504
+away_team,Stuttgart,505
+away_team,Hoffenheim,506
+away_team,Werder Bremen,507
+away_team,Union Berlin,508
+away_team,Dortmund,509
+away_team,Bayer Leverkusen,510
+away_team,Wolfsburg,511
+away_team,Eintracht Frankfurt,512
+away_team,Augsburg,513
+away_team,Holstein Kiel,514
+away_team,St. Pauli,515
+away_team,Hamburger SV,516
+away_team,Paderborn,517
+away_team,Schalke,518
+away_team,Magdeburg,519
+away_team,Karlsruher SC,520
+away_team,Elversberg,521
+away_team,Hertha Berlin,522
+away_team,Nurnberg,523
+away_team,VfL Osnabruck,524
+away_team,Wehen,525
+away_team,Dusseldorf,526
+away_team,Kaiserslautern,527
+away_team,Greuther Furth,528
+away_team,Hansa Rostock,529
+away_team,Hannover,530
+away_team,Braunschweig,531
+away_team,Regensburg,532
+away_team,Preussen Munster,533
+away_team,Ulm,534
+away_team,SG Dynamo Dresden,535
+away_team,Arminia Bielefeld,536
+away_team,RW Essen,537
+away_team,Unterhaching,538
+away_team,Dortmund II,539
+away_team,Mannheim,540
+away_team,Sandhausen,541
+away_team,Verl,542
+away_team,Saarbrucken,543
+away_team,Duisburg,544
+away_team,Ingolstadt,545
+away_team,Lubeck,546
+away_team,Viktoria Koln,547
+away_team,Hallescher,548
+away_team,Munich 1860,549
+away_team,Freiburg II,550
+away_team,Aue,551
+away_team,Alemannia Aachen,552
+away_team,Stuttgart II,553
+away_team,Hannover II,554
+away_team,Cottbus,555
+away_team,TSV Havelse,556
+away_team,Schweinfurt,557
+away_team,Hoffenheim II,558
+away_team,Drochtersen/Assel,559
+away_team,Teutonia Ottensen,560
+away_team,Holstein Kiel II,561
+away_team,Kilia Kiel,562
+away_team,Norderstedt,563
+away_team,Jeddeloh,564
+away_team,Eimsbutteler,565
+away_team,Phonix Lubeck,566
+away_team,SC Weiche-08,567
+away_team,St. Pauli II,568
+away_team,Hamburger SV II,569
+away_team,Spelle-Venhaus,570
+away_team,VfB Oldenburg,571
+away_team,Bremer,572
+away_team,Meppen,573
+away_team,Lohne,574
+away_team,Todesfelde,575
+away_team,Werder Bremen II,576
+away_team,Emden,577
+away_team,Hannoverscher SC,578
+away_team,Altona,579
+away_team,Schoningen,580
+away_team,Lamia,581
+away_team,Asteras Tripolis,582
+away_team,Panserraikos,583
+away_team,Aris,584
+away_team,Kifisia,585
+away_team,Giannina,586
+away_team,OFI Crete,587
+away_team,Volos,588
+away_team,Atromitos,589
+away_team,Panetolikos,590
+away_team,PAOK,591
+away_team,Panathinaikos,592
+away_team,AEK Athens FC,593
+away_team,Olympiacos Piraeus,594
+away_team,Athens Kallithea,595
+away_team,Levadiakos,596
+away_team,AEL Larissa,597
+away_team,AEK Athens,598
+away_team,Ilioupoli,599
+away_team,Iraklis 1908,600
+away_team,Panachaiki,601
+away_team,Aiolikos,602
+away_team,AEK Athens FC B,603
+away_team,Kampaniakos,604
+away_team,PAE Egaleo,605
+away_team,Kalamata,606
+away_team,PAE Chania,607
+away_team,Diagoras,608
+away_team,Kalamaria,609
+away_team,Panathinaikos B,610
+away_team,Olympiacos Piraeus B,611
+away_team,Karditsa,612
+away_team,Ionikos,613
+away_team,Kozani FC,614
+away_team,Makedonikos,615
+away_team,Tilikratis L.,616
+away_team,Giouchtas,617
+away_team,Niki Volos,618
+away_team,PAOK B,619
+away_team,Kavala,620
+away_team,Panionios,621
+away_team,Ethnikos Neou,622
+away_team,Asteras Tripolis B,623
+away_team,Panargiakos,624
+away_team,Marko,625
+away_team,Ellas Syrou,626
+away_team,Chrisoupolis,627
+away_team,Vitesse,628
+away_team,Sparta Rotterdam,629
+away_team,Utrecht,630
+away_team,Waalwijk,631
+away_team,Heracles,632
+away_team,Excelsior,633
+away_team,Sittard,634
+away_team,G.A. Eagles,635
+away_team,Twente,636
+away_team,Nijmegen,637
+away_team,PSV,638
+away_team,Almere City,639
+away_team,FC Volendam,640
+away_team,Ajax,641
+away_team,AZ Alkmaar,642
+away_team,Heerenveen,643
+away_team,Zwolle,644
+away_team,Feyenoord,645
+away_team,NAC Breda,646
+away_team,Willem II,647
+away_team,Groningen,648
+away_team,Telstar,649
+away_team,Den Bosch,650
+away_team,De Graafschap,651
+away_team,Jong Ajax,652
+away_team,Helmond,653
+away_team,Oss,654
+away_team,Den Haag,655
+away_team,FC Emmen,656
+away_team,Maastricht,657
+away_team,Jong Utrecht,658
+away_team,Jong PSV,659
+away_team,Jong AZ,660
+away_team,Dordrecht,661
+away_team,Venlo,662
+away_team,Roda,663
+away_team,Cambuur,664
+away_team,Eindhoven FC,665
+away_team,Spakenburg,666
+away_team,Kozakken Boys,667
+away_team,Noordwijk,668
+away_team,Lisse,669
+away_team,Hardenberg,670
+away_team,Quick Boys,671
+away_team,Jong Almere City,672
+away_team,GVVV,673
+away_team,Jong Sparta Rotterdam,674
+away_team,AFC,675
+away_team,Rijnsburgse Boys,676
+away_team,Scheveningen,677
+away_team,Excelsior Maassluis,678
+away_team,HFC,679
+away_team,ADO 20 Heemskerk,680
+away_team,ACV Assen,681
+away_team,De Treffers,682
+away_team,Katwijk,683
+away_team,RKAV Volendam,684
+away_team,Barendrecht,685
+away_team,IJsselmeervogels,686
+away_team,Hoek,687
+away_team,DVS '33 Ermelo,688
+away_team,VVSB,689
+away_team,Rijnvogels,690
+away_team,Sparta Nijkerk,691
+away_team,Groningen U21,692
+away_team,Paks,693
+away_team,Videoton,694
+away_team,Puskas Academy,695
+away_team,Kisvarda,696
+away_team,Mezokovesd-Zsory,697
+away_team,Ujpest,698
+away_team,DVTK,699
+away_team,MTK Budapest,700
+away_team,Ferencvaros,701
+away_team,Zalaegerszegi,702
+away_team,Kecskemeti TE,703
+away_team,Debrecen,704
+away_team,Gyor,705
+away_team,Nyiregyhaza,706
+away_team,Kazincbarcika,707
+away_team,Haladas,708
+away_team,Budafoki,709
+away_team,Soroksar,710
+away_team,Honved,711
+away_team,Szeged,712
+away_team,Tiszakecske,713
+away_team,Siofok,714
+away_team,Mosonmagyarovari TE,715
+away_team,Vasas,716
+away_team,Ajka,717
+away_team,Gyirmot,718
+away_team,Pecsi MFC,719
+away_team,Kozarmisleny SE,720
+away_team,BVSC-Zuglo,721
+away_team,Csakvari,722
+away_team,Bekescsaba 1912,723
+away_team,Szentlorinc,724
+away_team,Tatabanya,725
+away_team,Karcagi,726
+away_team,Bengaluru FC,727
+away_team,Punjab,728
+away_team,Chennaiyin,729
+away_team,Mumbai City,730
+away_team,Jamshedpur,731
+away_team,Hyderabad,732
+away_team,East Bengal,733
+away_team,North East Utd,734
+away_team,Mohun Bagan,735
+away_team,Odisha FC,736
+away_team,Kerala Blasters,737
+away_team,Goa,738
+away_team,Mohammedan,739
+away_team,Inter Kashi,740
+away_team,SC Delhi,741
+away_team,Derry City,742
+away_team,Drogheda,743
+away_team,UC Dublin,744
+away_team,Shamrock Rovers,745
+away_team,Sligo Rovers,746
+away_team,Shelbourne,747
+away_team,Cork City,748
+away_team,Dundalk,749
+away_team,St. Patricks,750
+away_team,Galway,751
+away_team,Waterford,752
+away_team,Bray,753
+away_team,Cobh Ramblers,754
+away_team,Athlone,755
+away_team,Wexford,756
+away_team,Longford,757
+away_team,Treaty United,758
+away_team,Kerry,759
+away_team,Finn Harps,760
+away_team,Monza,761
+away_team,Fiorentina,762
+away_team,Napoli,763
+away_team,Verona,764
+away_team,Juventus,765
+away_team,Atalanta,766
+away_team,Lazio,767
+away_team,Salernitana,768
+away_team,Cagliari,769
+away_team,AC Milan,770
+away_team,AS Roma,771
+away_team,Empoli,772
+away_team,Torino,773
+away_team,Sassuolo,774
+away_team,Genoa,775
+away_team,Bologna,776
+away_team,Lecce,777
+away_team,Udinese,778
+away_team,Inter,779
+away_team,Frosinone,780
+away_team,Venezia,781
+away_team,Como,782
+away_team,Parma,783
+away_team,Cremonese,784
+away_team,Pisa,785
+away_team,Sampdoria U19,786
+away_team,Empoli U19,787
+away_team,Lazio U19,788
+away_team,AC Milan U19,789
+away_team,Frosinone U19,790
+away_team,Cagliari U19,791
+away_team,Lecce U19,792
+away_team,Torino U19,793
+away_team,Fiorentina U19,794
+away_team,Atalanta U19,795
+away_team,Monza U19,796
+away_team,Verona U19,797
+away_team,Inter U19,798
+away_team,Bologna U19,799
+away_team,Sassuolo U19,800
+away_team,Genoa U19,801
+away_team,AS Roma U19,802
+away_team,Juventus U19,803
+away_team,Fiorentina U20,804
+away_team,Bologna U20,805
+away_team,Sassuolo U20,806
+away_team,AC Milan U20,807
+away_team,Sampdoria U20,808
+away_team,Lecce U20,809
+away_team,Juventus U20,810
+away_team,Cremonese U20,811
+away_team,Cagliari U20,812
+away_team,Lazio U20,813
+away_team,Monza U20,814
+away_team,Udinese U20,815
+away_team,Cesena U20,816
+away_team,Empoli U20,817
+away_team,AS Roma U20,818
+away_team,Genoa U20,819
+away_team,Inter U20,820
+away_team,Torino U20,821
+away_team,Atalanta U20,822
+away_team,Verona U20,823
+away_team,Parma U20,824
+away_team,Napoli U20,825
+away_team,Frosinone U20,826
+away_team,Palermo,827
+away_team,Sampdoria,828
+away_team,Catanzaro,829
+away_team,Ascoli,830
+away_team,Spezia,831
+away_team,FeralpiSalo,832
+away_team,Reggiana,833
+away_team,Cosenza,834
+away_team,Cittadella,835
+away_team,Sudtirol,836
+away_team,Bari,837
+away_team,Ternana,838
+away_team,Modena,839
+away_team,Brescia,840
+away_team,Lecco,841
+away_team,Juve Stabia,842
+away_team,Mantova,843
+away_team,Carrarese,844
+away_team,Cesena,845
+away_team,Padova,846
+away_team,Avellino,847
+away_team,Pescara,848
+away_team,Entella,849
+away_team,Giana Erminio,850
+away_team,Virtus Verona,851
+away_team,Arzignano,852
+away_team,Novara,853
+away_team,AlbinoLeffe,854
+away_team,Trento,855
+away_team,Lumezzane,856
+away_team,Pro Sesto,857
+away_team,Renate,858
+away_team,L.R. Vicenza,859
+away_team,Pergolettese,860
+away_team,Legnago Salus,861
+away_team,Fiorenzuola,862
+away_team,Pro Vercelli,863
+away_team,Atalanta U23,864
+away_team,Alessandria,865
+away_team,Pro Patria,866
+away_team,Triestina,867
+away_team,Alcione Milano,868
+away_team,Caldiero Terme,869
+away_team,Union Clodiense,870
+away_team,Ospitaletto,871
+away_team,Dolomiti Bellunesi,872
+away_team,Inter U23,873
+away_team,Sestri Levante,874
+away_team,Arezzo,875
+away_team,Perugia,876
+away_team,Pineto,877
+away_team,Fermana,878
+away_team,Vis Pesaro,879
+away_team,Torres,880
+away_team,Juventus U23,881
+away_team,Ancona,882
+away_team,Olbia,883
+away_team,Lucchese,884
+away_team,Rimini,885
+away_team,Pontedera,886
+away_team,Gubbio,887
+away_team,Spal,888
+away_team,Recanatese,889
+away_team,AC Milan U23,890
+away_team,Campobasso,891
+away_team,Carpi,892
+away_team,Pianese,893
+away_team,Guidonia,894
+away_team,Bra,895
+away_team,Forli,896
+away_team,Livorno,897
+away_team,Sambenedettese,898
+away_team,Ravenna,899
+away_team,Kashima Antlers,900
+away_team,Urawa Reds,901
+away_team,Albirex Niigata,902
+away_team,Gamba Osaka,903
+away_team,Vissel Kobe,904
+away_team,Hokkaido Consadole Sapporo,905
+away_team,FC Tokyo,906
+away_team,Kawasaki Frontale,907
+away_team,Yokohama F. Marinos,908
+away_team,Kyoto,909
+away_team,Avispa Fukuoka,910
+away_team,Iwata,911
+away_team,Machida,912
+away_team,Kashiwa Reysol,913
+away_team,Sanfrecce Hiroshima,914
+away_team,Cerezo Osaka,915
+away_team,Shonan Bellmare,916
+away_team,Verdy,917
+away_team,Sagan Tosu,918
+away_team,Nagoya Grampus,919
+away_team,Shimizu S-Pulse,920
+away_team,Okayama,921
+away_team,Yokohama FC,922
+away_team,Mito,923
+away_team,V-Varen Nagasaki,924
+away_team,Chiba,925
+away_team,Blaublitz,926
+away_team,Fujieda MYFC,927
+away_team,Montedio Yamagata,928
+away_team,Omiya Ardija,929
+away_team,Kanazawa,930
+away_team,Oita Trinita,931
+away_team,Kumamoto,932
+away_team,Vegalta Sendai,933
+away_team,Tokushima,934
+away_team,Iwaki,935
+away_team,Kusatsu,936
+away_team,Tochigi SC,937
+away_team,Kofu,938
+away_team,Renofa Yamaguchi,939
+away_team,Kagoshima Utd,940
+away_team,Ehime,941
+away_team,Toyama,942
+away_team,Imabari,943
+away_team,Jeonbuk,944
+away_team,Gwangju FC,945
+away_team,Incheon,946
+away_team,Daegu,947
+away_team,Suwon FC,948
+away_team,Gangwon,949
+away_team,Pohang,950
+away_team,Daejeon,951
+away_team,Jeju SK,952
+away_team,Suwon Bluewings,953
+away_team,Seoul,954
+away_team,Ulsan HD,955
+away_team,Gimcheon Sangmu,956
+away_team,Anyang,957
+away_team,Ansan Greeners,958
+away_team,Cheongju,959
+away_team,Bucheon FC 1995,960
+away_team,Busan,961
+away_team,Seongnam,962
+away_team,Asan,963
+away_team,Gyeongnam,964
+away_team,Cheonan City,965
+away_team,Seoul E-Land,966
+away_team,Jeonnam,967
+away_team,Gimpo FC,968
+away_team,Hwaseong,969
+away_team,Kazma SC,970
+away_team,Al Jahra,971
+away_team,Khaitan,972
+away_team,Al Salmiya,973
+away_team,Al Shabab,974
+away_team,Al Kuwait,975
+away_team,Al Qadisiya,976
+away_team,Al Naser,977
+away_team,Al-Fahaheel,978
+away_team,Al Arabi,979
+away_team,Al Tadamon,980
+away_team,Yarmouk,981
+away_team,RFS,982
+away_team,Super Nova,983
+away_team,Jelgava,984
+away_team,BFC Daugavpils,985
+away_team,FK Liepaja,986
+away_team,Auda,987
+away_team,Tukums 2000,988
+away_team,Riga FC,989
+away_team,Valmiera,990
+away_team,Metta,991
+away_team,Skanste,992
+away_team,Grobina,993
+away_team,Alberts JDFS,994
+away_team,Siauliai FA,995
+away_team,Kauno Zalgiris,996
+away_team,Dainava Alytus,997
+away_team,Dziugas Telsiai,998
+away_team,FK Panevezys,999
+away_team,Banga,1000
+away_team,Hegelmann,1001
+away_team,Zalgiris,1002
+away_team,Riteriai,1003
+away_team,Suduva,1004
+away_team,Transinvest,1005
+away_team,Moghreb Tetouan,1006
+away_team,Renaissance Zemamra,1007
+away_team,Hassania Agadir,1008
+away_team,Raja Casablanca,1009
+away_team,Jeunesse Sportive Soualem,1010
+away_team,Mouloudia Oujda,1011
+away_team,Chabab Mohammedia,1012
+away_team,FUS Rabat,1013
+away_team,Youssoufia Berrechid,1014
+away_team,Union Touarga,1015
+away_team,Olympique de Safi,1016
+away_team,FAR Rabat,1017
+away_team,Maghreb Fez,1018
+away_team,Wydad,1019
+away_team,IR Tanger,1020
+away_team,Berkane,1021
+away_team,Difaa El Jadidi,1022
+away_team,COD Meknes,1023
+away_team,Kawkab Marrakech,1024
+away_team,Yacoub El Mansour,1025
+away_team,Wydad AC,1026
+away_team,Dcheira,1027
+away_team,York City,1028
+away_team,Eastleigh,1029
+away_team,Ebbsfleet,1030
+away_team,AFC Fylde,1031
+away_team,Woking,1032
+away_team,Boreham Wood,1033
+away_team,Dorking,1034
+away_team,Hartlepool,1035
+away_team,Dag & Red,1036
+away_team,Oxford City,1037
+away_team,FC Halifax,1038
+away_team,Kidderminster,1039
+away_team,Altrincham,1040
+away_team,Rochdale,1041
+away_team,Aldershot,1042
+away_team,Gateshead,1043
+away_team,Solihull Moors,1044
+away_team,Wealdstone,1045
+away_team,Maidenhead,1046
+away_team,Southend,1047
+away_team,Braintree,1048
+away_team,Tamworth,1049
+away_team,Yeovil,1050
+away_team,Boston Utd,1051
+away_team,Truro,1052
+away_team,Scunthorpe,1053
+away_team,Brackley Town,1054
+away_team,Chester,1055
+away_team,Alfreton,1056
+away_team,Warrington,1057
+away_team,Farsley,1058
+away_team,Scarborough,1059
+away_team,Hereford,1060
+away_team,Curzon Ashton,1061
+away_team,Gloucester,1062
+away_team,Spennymoor,1063
+away_team,Blyth,1064
+away_team,Peterborough Sports,1065
+away_team,Banbury,1066
+away_team,Darlington,1067
+away_team,Bishop's Stortford,1068
+away_team,Chorley,1069
+away_team,Rushall,1070
+away_team,King’s Lynn,1071
+away_team,Buxton,1072
+away_team,South Shields,1073
+away_team,Southport,1074
+away_team,Needham Market,1075
+away_team,Leamington,1076
+away_team,Marine,1077
+away_team,Radcliffe,1078
+away_team,Worksop,1079
+away_team,AFC Telford,1080
+away_team,Bedford,1081
+away_team,Macclesfield,1082
+away_team,Merthyr Town,1083
+away_team,Sandefjord,1084
+away_team,Haugesund,1085
+away_team,Valerenga,1086
+away_team,Odd,1087
+away_team,Molde,1088
+away_team,Bodo/Glimt,1089
+away_team,Viking,1090
+away_team,Lillestrom,1091
+away_team,Brann,1092
+away_team,Sarpsborg 08,1093
+away_team,Aalesund,1094
+away_team,Tromso,1095
+away_team,Rosenborg,1096
+away_team,HamKam,1097
+away_team,Stabaek,1098
+away_team,Stromsgodset,1099
+away_team,Kristiansund,1100
+away_team,Fredrikstad,1101
+away_team,KFUM Oslo,1102
+away_team,Bryne,1103
+away_team,Pogon Szczecin,1104
+away_team,LKS Lodz,1105
+away_team,Lech Poznan,1106
+away_team,Cracovia,1107
+away_team,Jagiellonia,1108
+away_team,Puszcza,1109
+away_team,Ruch Chorzow,1110
+away_team,Radomiak Radom,1111
+away_team,Slask Wroclaw,1112
+away_team,Zaglebie,1113
+away_team,Gornik Zabrze,1114
+away_team,Widzew Lodz,1115
+away_team,Piast Gliwice,1116
+away_team,Korona Kielce,1117
+away_team,Warta Poznan,1118
+away_team,Stal Mielec,1119
+away_team,Rakow,1120
+away_team,Legia,1121
+away_team,Lechia Gdansk,1122
+away_team,Motor Lublin,1123
+away_team,GKS Katowice,1124
+away_team,Termalica B-B.,1125
+away_team,Arka Gdynia,1126
+away_team,Wisla Plock,1127
+away_team,B.-Pogon Szczecin,1128
+away_team,B.-Rakow,1129
+away_team,B.-Korona Kielce,1130
+away_team,B.-Lech Poznan,1131
+away_team,B.-Widzew Lodz,1132
+away_team,B.-Zaglebie,1133
+away_team,B.-GKS Katowice,1134
+away_team,B.-Arka Gdynia,1135
+away_team,B.-Jagiellonia,1136
+away_team,Zaglebie Sosnowiec,1137
+away_team,Tychy,1138
+away_team,Wisla,1139
+away_team,R. Rzeszow,1140
+away_team,Odra Opole,1141
+away_team,Pruszkow,1142
+away_team,Legnica,1143
+away_team,Chrobry Glogow,1144
+away_team,S. Rzeszow,1145
+away_team,Leczna,1146
+away_team,Polonia Warszawa,1147
+away_team,Podbeskidzie,1148
+away_team,Kotwica Kolobrzeg,1149
+away_team,S. Wola,1150
+away_team,Pogon Siedlce,1151
+away_team,KS Wieczysta Krakow,1152
+away_team,Wieczysta Krakow,1153
+away_team,Polonia Bytom,1154
+away_team,Grodzisk M.,1155
+away_team,Sporting CP,1156
+away_team,AFS,1157
+away_team,Gil Vicente,1158
+away_team,Tondela,1159
+away_team,Santa Clara,1160
+away_team,Alverca,1161
+away_team,Vitoria Guimaraes,1162
+away_team,Estrela,1163
+away_team,Casa Pia,1164
+away_team,Benfica,1165
+away_team,Estoril,1166
+away_team,Famalicao,1167
+away_team,Nacional,1168
+away_team,Moreirense,1169
+away_team,Arouca,1170
+away_team,Braga,1171
+away_team,FC Porto,1172
+away_team,Rio Ave,1173
+away_team,Torreense,1174
+away_team,Leiria,1175
+away_team,Maritimo,1176
+away_team,Os Belenenses,1177
+away_team,Leixoes,1178
+away_team,Mafra,1179
+away_team,Vilaverdense,1180
+away_team,Feirense,1181
+away_team,Academico Viseu,1182
+away_team,Pacos Ferreira,1183
+away_team,Benfica B,1184
+away_team,Oliveirense,1185
+away_team,Penafiel,1186
+away_team,FC Porto B,1187
+away_team,Chaves,1188
+away_team,Vizela,1189
+away_team,Portimonense,1190
+away_team,Felgueiras,1191
+away_team,Sporting CP B,1192
+away_team,Lusitania FC,1193
+away_team,SC Farense,1194
+away_team,Manchester City,1195
+away_team,Crystal Palace,1196
+away_team,Aston Villa,1197
+away_team,Fulham,1198
+away_team,West Ham,1199
+away_team,Nottingham,1200
+away_team,Liverpool,1201
+away_team,Tottenham,1202
+away_team,Wolves,1203
+away_team,Brighton,1204
+away_team,Manchester Utd,1205
+away_team,Newcastle,1206
+away_team,Bournemouth,1207
+away_team,Brentford,1208
+away_team,Chelsea,1209
+away_team,Everton,1210
+away_team,Arsenal,1211
+away_team,Cornella,1212
+away_team,Arenteiro,1213
+away_team,Rayo Majadahonda,1214
+away_team,Sestao,1215
+away_team,Celta Vigo B,1216
+away_team,Cultural Leonesa,1217
+away_team,Teruel,1218
+away_team,Barcelona B,1219
+away_team,Sabadell,1220
+away_team,Tarazona,1221
+away_team,Dep. La Coruna,1222
+away_team,Gimnastic,1223
+away_team,R. Union,1224
+away_team,Real Sociedad B,1225
+away_team,Ponferradina,1226
+away_team,Osasuna B,1227
+away_team,Fuenlabrada,1228
+away_team,SD Logrones,1229
+away_team,Lugo,1230
+away_team,Unionistas,1231
+away_team,Zamora,1232
+away_team,Gimnastica Segoviana,1233
+away_team,Ourense CF,1234
+away_team,Barakaldo,1235
+away_team,Andorra,1236
+away_team,Ath Bilbao B,1237
+away_team,Amorebieta,1238
+away_team,Cacereno,1239
+away_team,Tenerife,1240
+away_team,CF Talavera,1241
+away_team,Merida AD,1242
+away_team,AD Merida,1243
+away_team,Pontevedra,1244
+away_team,Real Aviles,1245
+away_team,Guadalajara,1246
+away_team,Arenas Getxo,1247
+away_team,Real Madrid B,1248
+away_team,Racing Club Ferrol,1249
+away_team,Malaga,1250
+away_team,Antequera,1251
+away_team,Linares,1252
+away_team,UD Ibiza,1253
+away_team,Algeciras,1254
+away_team,Sanluqueno,1255
+away_team,CF Intercity,1256
+away_team,Melilla,1257
+away_team,Murcia,1258
+away_team,Ceuta,1259
+away_team,Atl. Madrid B,1260
+away_team,Granada CF B,1261
+away_team,Baleares,1262
+away_team,Cordoba,1263
+away_team,Alcoyano,1264
+away_team,San Fernando,1265
+away_team,Recreativo Huelva,1266
+away_team,Castellon,1267
+away_team,Villarreal B,1268
+away_team,Alcorcon,1269
+away_team,Hercules,1270
+away_team,Betis B,1271
+away_team,Yeclano,1272
+away_team,Sevilla FC B,1273
+away_team,Marbella,1274
+away_team,CE Europa,1275
+away_team,Eldense,1276
+away_team,FC Cartagena SAD,1277
+away_team,Torremolinos,1278
+away_team,Sepsi Sf. Gheorghe,1279
+away_team,UTA Arad,1280
+away_team,Farul Constanta,1281
+away_team,Poli Iasi,1282
+away_team,U. Cluj,1283
+away_team,FCSB,1284
+away_team,FC Botosani,1285
+away_team,Univ. Craiova,1286
+away_team,CFR Cluj,1287
+away_team,U Craiova 1948,1288
+away_team,Din. Bucuresti,1289
+away_team,FC Voluntari,1290
+away_team,FC Rapid Bucuresti,1291
+away_team,FC Hermannstadt,1292
+away_team,Otelul,1293
+away_team,Petrolul,1294
+away_team,Unirea Slobozia,1295
+away_team,Gloria Buzau,1296
+away_team,Dinamo Bucuresti,1297
+away_team,FC Arges,1298
+away_team,Metaloglobus Bucharest,1299
+away_team,Csikszereda M. Ciuc,1300
+away_team,Krasnodar,1301
+away_team,Krylya Sovetov,1302
+away_team,Rubin Kazan,1303
+away_team,Zenit,1304
+away_team,CSKA Moscow,1305
+away_team,Orenburg,1306
+away_team,Baltika,1307
+away_team,Fakel Voronezh,1308
+away_team,Pari NN,1309
+away_team,Dynamo Moscow,1310
+away_team,Lokomotiv Moscow,1311
+away_team,Sochi,1312
+away_team,FK Rostov,1313
+away_team,Spartak Moscow,1314
+away_team,Ural,1315
+away_team,Akhmat Grozny,1316
+away_team,Akron Togliatti,1317
+away_team,Dynamo Makhachkala,1318
+away_team,Khimki,1319
+away_team,R. Volgograd,1320
+away_team,Al Hazem,1321
+away_team,Damac,1322
+away_team,Al Khaleej,1323
+away_team,Al Taawon,1324
+away_team,Al Wehda,1325
+away_team,Al Nassr,1326
+away_team,Al Okhdood,1327
+away_team,Al Hilal,1328
+away_team,Al Riyadh,1329
+away_team,Al Ahli SC,1330
+away_team,Al Fateh,1331
+away_team,Al Ettifaq,1332
+away_team,Al Taee,1333
+away_team,Al Fayha,1334
+away_team,Al Raed,1335
+away_team,Abha,1336
+away_team,Al Orubah,1337
+away_team,Al Kholood,1338
+away_team,Neom SC,1339
+away_team,Al Najma,1340
+away_team,Al Qadsiah,1341
+away_team,Al Taraji,1342
+away_team,Al-Qaisumah,1343
+away_team,Al Adalah,1344
+away_team,Al Jandal,1345
+away_team,Al Ain,1346
+away_team,Jeddah,1347
+away_team,Al Safa,1348
+away_team,Ohod,1349
+away_team,Hajer,1350
+away_team,Al-Faisaly,1351
+away_team,Al Batin,1352
+away_team,Al Jabalain,1353
+away_team,Al Bukiryah,1354
+away_team,Al Jubail,1355
+away_team,Al Zulfi,1356
+away_team,Al Anwar,1357
+away_team,Al Diriyah,1358
+away_team,Al-Ula,1359
+away_team,Edinburgh City,1360
+away_team,Alloa,1361
+away_team,Kelty Hearts,1362
+away_team,Cove Rangers,1363
+away_team,Annan,1364
+away_team,Montrose,1365
+away_team,Hamilton,1366
+away_team,Queen of South,1367
+away_team,Falkirk,1368
+away_team,Stirling,1369
+away_team,Arbroath,1370
+away_team,Dumbarton,1371
+away_team,Stenhousemuir,1372
+away_team,Inverness,1373
+away_team,East Fife,1374
+away_team,Peterhead,1375
+away_team,Spartans,1376
+away_team,Airdrieonians,1377
+away_team,Clyde,1378
+away_team,Forfar Athletic,1379
+away_team,Stranraer,1380
+away_team,Elgin City,1381
+away_team,Bonnyrigg Rose,1382
+away_team,East Kilbride,1383
+away_team,Brora Rangers,1384
+away_team,Dundee Utd,1385
+away_team,Queen's Park,1386
+away_team,Raith,1387
+away_team,Ayr,1388
+away_team,Morton,1389
+away_team,Dunfermline,1390
+away_team,Partick Thistle,1391
+away_team,Livingston,1392
+away_team,Ross County,1393
+away_team,St Johnstone,1394
+away_team,Aberdeen,1395
+away_team,Rangers,1396
+away_team,Motherwell,1397
+away_team,Hearts,1398
+away_team,St. Mirren,1399
+away_team,Dundee FC,1400
+away_team,Kilmarnock,1401
+away_team,Hibernian,1402
+away_team,Celtic,1403
+away_team,Valladolid Promesas,1404
+away_team,Langreo,1405
+away_team,Cayon,1406
+away_team,Racing Club Villalbes,1407
+away_team,Dep. Fabril,1408
+away_team,Torrelavega,1409
+away_team,Compostela,1410
+away_team,Covadonga,1411
+away_team,Guijuelo,1412
+away_team,Marino de Luanco,1413
+away_team,Coruxo FC,1414
+away_team,Oviedo B,1415
+away_team,Rayo Cantabria,1416
+away_team,Arandina,1417
+away_team,Llanera,1418
+away_team,Real Avila,1419
+away_team,Salamanca,1420
+away_team,Bergantinos,1421
+away_team,Laredo,1422
+away_team,Numancia,1423
+away_team,Escobedo,1424
+away_team,Sarriana,1425
+away_team,Burgos CF B,1426
+away_team,UD Samano,1427
+away_team,Atl. Astorga,1428
+away_team,UD Ourense,1429
+away_team,Lealtad,1430
+away_team,Alaves B,1431
+away_team,AD San Juan,1432
+away_team,Barbastro,1433
+away_team,Mutilvera,1434
+away_team,Izarra,1435
+away_team,Valle Egues,1436
+away_team,Zaragoza B,1437
+away_team,Calahorra,1438
+away_team,UD Logrones,1439
+away_team,Gernika,1440
+away_team,Tudelano,1441
+away_team,Utebo FC,1442
+away_team,Brea,1443
+away_team,Naxara,1444
+away_team,Real Sociedad C,1445
+away_team,Subiza,1446
+away_team,Alfaro,1447
+away_team,Anguiano,1448
+away_team,Eibar B,1449
+away_team,Ejea,1450
+away_team,Basconia,1451
+away_team,Beasain,1452
+away_team,Ebro,1453
+away_team,Sant Andreu,1454
+away_team,Manresa,1455
+away_team,Andratx,1456
+away_team,Pena Deportiva,1457
+away_team,Formentera,1458
+away_team,Torrent,1459
+away_team,Espanyol B,1460
+away_team,Lleida,1461
+away_team,Som Maresme,1462
+away_team,Valencia B,1463
+away_team,Penya Indep.,1464
+away_team,Alzira,1465
+away_team,Cerdanyola,1466
+away_team,Saguntino,1467
+away_team,Terrassa,1468
+away_team,La Nucia,1469
+away_team,Olot,1470
+away_team,Ilicitano,1471
+away_team,Mallorca B,1472
+away_team,SD Ibiza,1473
+away_team,Castellon B,1474
+away_team,Girona B,1475
+away_team,Porreres,1476
+away_team,Reus FCR,1477
+away_team,Atletic Lleida,1478
+away_team,Poblense,1479
+away_team,CD Estepona,1480
+away_team,UCAM Murcia,1481
+away_team,Linense,1482
+away_team,San Roque,1483
+away_team,Velez,1484
+away_team,Cadiz CF B,1485
+away_team,Racing Cartagena MM,1486
+away_team,Ciudad Real,1487
+away_team,Orihuela,1488
+away_team,El Palo,1489
+away_team,FC Cartagena SAD B,1490
+away_team,Antoniano,1491
+away_team,La Union,1492
+away_team,Aguilas FC,1493
+away_team,Deportiva Minera,1494
+away_team,Almeria B,1495
+away_team,Don Benito,1496
+away_team,Xerez D.F.C.,1497
+away_team,Xerez CD,1498
+away_team,Villanovense,1499
+away_team,Malagueno,1500
+away_team,Malaga B,1501
+away_team,Jaen,1502
+away_team,CD Extremadura,1503
+away_team,Puente Genil,1504
+away_team,Lorca Deportiva,1505
+away_team,Union Adarve,1506
+away_team,Getafe B,1507
+away_team,Atl. Paso,1508
+away_team,Navalcarnero,1509
+away_team,Illescas,1510
+away_team,Mensajero,1511
+away_team,Llerenense,1512
+away_team,Ursaria,1513
+away_team,Montijo,1514
+away_team,CD Badajoz,1515
+away_team,San Sebastian Reyes,1516
+away_team,Conquense,1517
+away_team,CD Mostoles,1518
+away_team,Colonia M.,1519
+away_team,CD Coria,1520
+away_team,Real Madrid C,1521
+away_team,Yaiza,1522
+away_team,Tenerife B,1523
+away_team,RSD Alcala,1524
+away_team,Socuellamos,1525
+away_team,Rayo Vallecano B,1526
+away_team,Quintanar del Rey,1527
+away_team,Las Palmas B,1528
+away_team,Javor,1529
+away_team,Partizan,1530
+away_team,IMT Novi Beograd,1531
+away_team,Radnicki Nis,1532
+away_team,Zeleznicar Pancevo,1533
+away_team,Radnicki 1923,1534
+away_team,Vojvodina,1535
+away_team,Radnik,1536
+away_team,TSC,1537
+away_team,Mladost,1538
+away_team,Novi Pazar,1539
+away_team,Vozdovac,1540
+away_team,Cukaricki,1541
+away_team,Napredak,1542
+away_team,Sp. Subotica,1543
+away_team,Crvena zvezda,1544
+away_team,OFK Beograd Mozzart Bet,1545
+away_team,Jedinstvo U.,1546
+away_team,Tekstilac Odzaci,1547
+away_team,Domzale,1548
+away_team,O. Ljubljana,1549
+away_team,Rogaska,1550
+away_team,Celje,1551
+away_team,Maribor,1552
+away_team,Radomlje,1553
+away_team,Bravo,1554
+away_team,Mura,1555
+away_team,Aluminij,1556
+away_team,Koper,1557
+away_team,Primorje,1558
+away_team,Nafta,1559
+away_team,Weymouth,1560
+away_team,Slough,1561
+away_team,Hampton & Richmond,1562
+away_team,Torquay,1563
+away_team,Bath,1564
+away_team,Aveley,1565
+away_team,Farnborough,1566
+away_team,Havant & W,1567
+away_team,Welling,1568
+away_team,Tonbridge,1569
+away_team,Weston-super-Mare,1570
+away_team,St. Albans,1571
+away_team,Dartford,1572
+away_team,Hemel Hempstead,1573
+away_team,Worthing,1574
+away_team,Dover,1575
+away_team,Chippenham,1576
+away_team,Eastbourne Boro,1577
+away_team,Maidstone,1578
+away_team,Taunton,1579
+away_team,Chelmsford,1580
+away_team,Enfield Town,1581
+away_team,Salisbury,1582
+away_team,Hornchurch,1583
+away_team,Chesham,1584
+away_team,AFC Totton,1585
+away_team,Horsham FC,1586
+away_team,Valencia,1587
+away_team,Rayo Vallecano,1588
+away_team,Girona,1589
+away_team,Mallorca,1590
+away_team,Real Madrid,1591
+away_team,Betis,1592
+away_team,Barcelona,1593
+away_team,Osasuna,1594
+away_team,Alaves,1595
+away_team,Granada CF,1596
+away_team,Las Palmas,1597
+away_team,Villarreal,1598
+away_team,Celta Vigo,1599
+away_team,Ath Bilbao,1600
+away_team,Getafe,1601
+away_team,Atl. Madrid,1602
+away_team,Cadiz CF,1603
+away_team,Sevilla,1604
+away_team,Real Sociedad,1605
+away_team,Almeria,1606
+away_team,Leganes,1607
+away_team,Espanyol,1608
+away_team,Valladolid,1609
+away_team,Oviedo,1610
+away_team,Levante,1611
+away_team,Elche,1612
+away_team,Gijon,1613
+away_team,Eibar,1614
+away_team,Huesca,1615
+away_team,Burgos CF,1616
+away_team,Racing Santander,1617
+away_team,Mirandes,1618
+away_team,Zaragoza,1619
+away_team,Albacete,1620
+away_team,Dep. A Coruna,1621
+away_team,Brommapojkarna,1622
+away_team,Kalmar,1623
+away_team,Degerfors,1624
+away_team,Sirius,1625
+away_team,Varnamo,1626
+away_team,AIK,1627
+away_team,Varberg,1628
+away_team,Hacken,1629
+away_team,Halmstad,1630
+away_team,Malmo FF,1631
+away_team,Hammarby,1632
+away_team,Djurgarden,1633
+away_team,Goteborg,1634
+away_team,Elfsborg,1635
+away_team,Mjallby,1636
+away_team,Norrkoping,1637
+away_team,Vasteras SK,1638
+away_team,GAIS,1639
+away_team,Oster,1640
+away_team,Landskrona,1641
+away_team,Skovde AIK,1642
+away_team,Gefle,1643
+away_team,Orebro,1644
+away_team,AFC Eskilstuna,1645
+away_team,Brage,1646
+away_team,Jonkoping,1647
+away_team,Ostersund,1648
+away_team,Utsikten,1649
+away_team,Orgryte,1650
+away_team,Trelleborg,1651
+away_team,Helsingborg,1652
+away_team,Sundsvall,1653
+away_team,Oddevold,1654
+away_team,Sandviken,1655
+away_team,Umea FC,1656
+away_team,Falkenberg,1657
+away_team,Luzern,1658
+away_team,Basel,1659
+away_team,Servette,1660
+away_team,Yverdon,1661
+away_team,Lausanne,1662
+away_team,Lugano,1663
+away_team,Zurich,1664
+away_team,St. Gallen,1665
+away_team,Grasshoppers,1666
+away_team,Young Boys,1667
+away_team,Lausanne Ouchy,1668
+away_team,Winterthur,1669
+away_team,Sion,1670
+away_team,Thun,1671
+away_team,Schaffhausen,1672
+away_team,Stade Nyonnais,1673
+away_team,Baden,1674
+away_team,Wil,1675
+away_team,Xamax,1676
+away_team,Aarau,1677
+away_team,Bellinzona,1678
+away_team,Vaduz,1679
+away_team,Etoile-Carouge,1680
+away_team,Rapperswil-Jona,1681
+away_team,Pathum United,1682
+away_team,Port MTI FC,1683
+away_team,Bangkok Utd,1684
+away_team,Buriram,1685
+away_team,Chonburi,1686
+away_team,Ratchaburi,1687
+away_team,Chiangrai Utd,1688
+away_team,Sukhothai,1689
+away_team,Police Tero,1690
+away_team,Prachuap,1691
+away_team,Nakhon Pathom,1692
+away_team,Uthai Thani,1693
+away_team,Muang Thong Utd,1694
+away_team,Trat FC,1695
+away_team,Lamphun Warrior,1696
+away_team,Khonkaen Utd.,1697
+away_team,Rayong FC,1698
+away_team,Nong Bua Pitchaya,1699
+away_team,Nakhon Ratchasima FC,1700
+away_team,Kanchanaburi,1701
+away_team,Ayutthaya Utd,1702
+away_team,Antalyaspor,1703
+away_team,Galatasaray,1704
+away_team,Hatayspor,1705
+away_team,Istanbulspor AS,1706
+away_team,Ankaragucu,1707
+away_team,Gaziantep,1708
+away_team,Samsunspor,1709
+away_team,Rizespor,1710
+away_team,Basaksehir,1711
+away_team,Besiktas,1712
+away_team,Kayserispor,1713
+away_team,Konyaspor,1714
+away_team,Kasimpasa,1715
+away_team,Alanyaspor,1716
+away_team,Trabzonspor,1717
+away_team,Pendikspor,1718
+away_team,Sivasspor,1719
+away_team,Karagumruk,1720
+away_team,Adana Demirspor,1721
+away_team,Fenerbahce,1722
+away_team,Goztepe,1723
+away_team,Eyupspor,1724
+away_team,Bodrumspor,1725
+away_team,Genclerbirligi,1726
+away_team,Kocaelispor,1727
+away_team,Adanaspor AS,1728
+away_team,Manisa FK,1729
+away_team,Umraniyespor,1730
+away_team,Corum,1731
+away_team,Sakaryaspor,1732
+away_team,Bandirmaspor,1733
+away_team,Altay,1734
+away_team,Giresunspor,1735
+away_team,Sanliurfaspor,1736
+away_team,Erzurumspor,1737
+away_team,Keciorengucu,1738
+away_team,Boluspor,1739
+away_team,Tuzlaspor,1740
+away_team,Erokspor,1741
+away_team,Amedspor,1742
+away_team,Igdir FK,1743
+away_team,Yeni Malatyaspor,1744
+away_team,Serik Spor,1745
+away_team,Sariyer,1746
+away_team,Vanspor FK,1747
+away_team,RSC Anderlecht W,1748
+away_team,Genk W,1749
+away_team,Waregem W,1750
+away_team,Femina Woluwe W,1751
+away_team,St. Liege W,1752
+away_team,Club Brugge W,1753
+away_team,Leuven W,1754
+away_team,Mechelen W,1755
+away_team,Gent W,1756
+away_team,Charleroi W,1757
+away_team,Westerlo W,1758
+away_team,Lyon W,1759
+away_team,St Etienne W,1760
+away_team,Dijon W,1761
+away_team,Paris FC W,1762
+away_team,Guingamp W,1763
+away_team,PSG W,1764
+away_team,Fleury 91 W,1765
+away_team,Montpellier W,1766
+away_team,Reims W,1767
+away_team,Lille W,1768
+away_team,Le Havre W,1769
+away_team,Bordeaux W,1770
+away_team,Nantes W,1771
+away_team,Strasbourg W,1772
+away_team,Marseille W,1773
+away_team,Lens W,1774
+away_team,Bayern Munich W,1775
+away_team,Duisburg W,1776
+away_team,Werder Bremen W,1777
+away_team,RB Leipzig W,1778
+away_team,Bayer Leverkusen W,1779
+away_team,Eintracht Frankfurt W,1780
+away_team,SGS Essen W,1781
+away_team,1.FC Nurnberg W,1782
+away_team,Hoffenheim W,1783
+away_team,Freiburg W,1784
+away_team,Wolfsburg W,1785
+away_team,Koln W,1786
+away_team,Jena W,1787
+away_team,Potsdam W,1788
+away_team,Hamburger SV W,1789
+away_team,Union Berlin W,1790
+away_team,Pitea W,1791
+away_team,Djurgarden W,1792
+away_team,Kalmar W,1793
+away_team,Linkoping W,1794
+away_team,Uppsala W,1795
+away_team,Vittsjo W,1796
+away_team,Vaxjo DFF W,1797
+away_team,Rosengard W,1798
+away_team,Hammarby W,1799
+away_team,Norrkoping W,1800
+away_team,IF Brommapojkarna W,1801
+away_team,Hacken W,1802
+away_team,Kristianstad W,1803
+away_team,KIF Orebro W,1804
+away_team,Trelleborg W,1805
+away_team,AIK W,1806
+away_team,Alingsas W,1807
+away_team,Malmo FF W,1808
