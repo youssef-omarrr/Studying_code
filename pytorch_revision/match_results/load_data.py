@@ -75,7 +75,7 @@ for col in categorical_cols:
     
     mappings.append(mapping)
 
-df.to_csv("test2.csv", index=False)
+df.to_csv("cleaned_data.csv", index=False)
 
 # save all mappings by concating them first
 mapping_df = pd.concat(mappings, ignore_index=True)
