@@ -4,3 +4,6 @@ BOOKS/PDFs/
 
 # datasets
 fpl_2025-26/
+
+# cache
+__pycache__/

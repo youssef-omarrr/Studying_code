@@ -9,8 +9,8 @@ def get_datasets(data_path="cleaned_data.csv"):
     df = pd.read_csv(data_path)
 
     # split features and targets
-    x = df.drop(columns=["home_goals", "away_goals"]).to_numpy
-    y = df[["home_goals", "away_goals"]].to_numpy
+    x = df.drop(columns=["home_goals", "away_goals"]).to_numpy()
+    y = df[["home_goals", "away_goals"]].to_numpy()
 
     # convert to pytorch tensors
     x = torch.tensor(x, dtype=torch.float32)
@@ -18,7 +18,7 @@ def get_datasets(data_path="cleaned_data.csv"):
 
     # split data
     x_train, x_test, y_train, y_test = train_test_split(
-        x, y, test_size=0.2, random_seed=42
+        x, y, test_size=0.2, random_state=42
     )
 
     # create datasets
@@ -27,13 +27,13 @@ def get_datasets(data_path="cleaned_data.csv"):
     
     return train_dataset, test_dataset
 
-def gat_dataloaders(data_path="cleaned_data.csv", batch_size=64):
+def get_dataloaders(data_path="cleaned_data.csv", batch_size=64):
     # get datasets
     train_dataset, test_dataset = get_datasets(data_path=data_path)
     
     # create dataloaders
-    train_dataloader = DataLoader(train_dataloader, batch_size=batch_size, shuffle=True)
-    test_dataloader = DataLoader(test_dataloader, batch_size=batch_size, shuffle=False)
+    train_dataloader = DataLoader(train_dataset, batch_size=batch_size, shuffle=True)
+    test_dataloader = DataLoader(test_dataset, batch_size=batch_size, shuffle=False)
     
     return train_dataloader, test_dataloader
 
