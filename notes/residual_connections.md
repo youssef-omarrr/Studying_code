@@ -81,12 +81,54 @@ Note: Hyper-connections are a broader family, and specific architectures such as
 | Complexity     | Low             | Medium         | Higher            |
 | Flexibility    | Low             | Medium         | High              |
 
-My recommendation for your model:
-
-Since you're experimenting with newer architectural blocks rather than building a conventional CNN:
-
-1. Start with normal residual blocks as your baseline.
-2. Try gated residual blocks to experiment with adaptive feature selection.
-3. Try hyper-connections for more advanced information mixing.
 
 One important distinction: Hyper-connections are not simply gated residual blocks with more gates. They change the structure of information flow itself.
+
+## 5. Attention Residuals (AttnRes)
+Attention Residuals (AttnRes) are an alternative to standard residual connections. Instead of simply adding the outputs of previous layers, they use attention to decide how much information to retrieve from each previous layer.
+
+### 1. Normal residual connections
+
+In a traditional deep network, residual connections repeatedly add the previous representation:
+
+\\[ x_l = x\_{l-1} + F_l(x\_{l-1}) \\]
+
+The problem is that information from earlier layers gets accumulated through repeated additions. This can lead to uncontrolled growth and make it difficult to selectively retrieve earlier features.
+
+### 2. Attention residuals
+
+Instead of adding only the immediately preceding representation, attention residuals use attention over previous layer outputs.
+
+A simplified formulation:
+
+\\[ x_l = \sum\_{i=0}^{l-1} \alpha\_{li} h_i \\]
+
+Where:
+
+- \\(h_i\\): Output from an earlier layer.
+- \\(\alpha\_{li}\\): Attention weight assigned to that layer.
+- The weights determine how much information each previous layer contributes.
+
+The network learns which previous representations are useful for the current layer.
+
+[Attention Residuals: Teaching transformers to choose which layers matter](https://images.openai.com/static-rsc-4/DiaAiFnMS2vpWTqLCUxaUk0uItoiFvZbAHjUmdTq6xBvpqLmc4rjQ-7WrTPAMWFo6c1bT8vxLVLhkrALkH8R4kfyKuF42FJRRagtmYNPHWfopkc9BHmxXIXT_BxXEyJmUwai7BpaTCeL7U7_lQ24GutHs2LjqRyR0_7Opnf3NA8?purpose=inline)
+
+### 3. Main differences
+
+| Property                        | Normal residual | Attention residual             |
+| ------------------------------- | --------------- | ------------------------------ |
+| Information source              | Previous layer  | Multiple previous layers       |
+| Feature mixing                  | Addition        | Attention-weighted combination |
+| Learnable weights               | No              | Yes                            |
+| Selective information retrieval | No              | Yes                            |
+| Complexity                      | Low             | Higher                         |
+
+### 4. How does it compare to Hyper-connections?
+
+This is an important distinction:
+
+- Residual connections: Direct addition of the previous representation.
+- Attention residuals: Attention-based selection and combination of previous layer representations.
+- Hyper-connections: Multiple residual streams with learnable information mixing.
+
+Attention residuals focus on which previous layer information to retrieve, while hyper-connections focus on how information flows between multiple streams.
