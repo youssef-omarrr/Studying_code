@@ -1,4 +1,9 @@
-All three are variations of residual connections, designed to improve information flow and gradient propagation in deep neural networks.
+## Sources
+- [Manifold-constrained hyper-connections](https://sebastianraschka.com/llm-architecture-gallery/mhc/)
+- [Attention Residuals (AttnRes)](https://sebastianraschka.com/llm-architecture-gallery/attention-residuals/)
+- [Gated Residuals (GR)](https://sebastianraschka.com/llm-architecture-gallery/gated-residuals/)
+
+# Residual Connections
 
 ## 1. Normal residual block
 
@@ -17,6 +22,8 @@ Why?
 - Helps prevent vanishing gradients.
 - Makes deeper networks easier to train.
 - Allows information to bypass convolutional layers.
+
+---
 
 ## 2. Gated residual block
 
@@ -43,6 +50,8 @@ The network learns whether to:
 - Combine both.
 
 Unlike a normal residual block, the skip connection is no longer an unconditional addition.
+
+---
 
 ## 3. Manifold / Hyper connections
 
@@ -71,6 +80,8 @@ Why?
 
 Note: Hyper-connections are a broader family, and specific architectures such as Manifold-Constrained Hyper-Connections (mHC) impose constraints on the mixing operations to improve training stability.
 
+---
+
 ## 4. Main differences
 
 | Property       | Normal residual | Gated residual | Hyper-connections |
@@ -81,10 +92,12 @@ Note: Hyper-connections are a broader family, and specific architectures such as
 | Complexity     | Low             | Medium         | Higher            |
 | Flexibility    | Low             | Medium         | High              |
 
-
 One important distinction: Hyper-connections are not simply gated residual blocks with more gates. They change the structure of information flow itself.
 
+---
+
 ## 5. Attention Residuals (AttnRes)
+
 Attention Residuals (AttnRes) are an alternative to standard residual connections. Instead of simply adding the outputs of previous layers, they use attention to decide how much information to retrieve from each previous layer.
 
 ### 1. Normal residual connections
@@ -132,3 +145,57 @@ This is an important distinction:
 - Hyper-connections: Multiple residual streams with learnable information mixing.
 
 Attention residuals focus on which previous layer information to retrieve, while hyper-connections focus on how information flows between multiple streams.
+
+---
+
+## Hyper-connections vs Attention Residuals
+
+Yes! Your understanding is correct. Hyper-connections can also learn how much information to take from different layers, which makes them conceptually similar to Attention Residuals.
+
+The difference is mainly in how they implement information mixing.
+
+### 1. Hyper-connections (HC)
+
+They introduce multiple residual streams and learn mixing coefficients between them.
+
+For example:
+
+\\[ x_l^{(i)} = \sum_j \alpha\_{ij}x\_{l-1}^{(j)} \\]
+
+The coefficients determine how information flows between residual streams.
+
+### 2. Attention Residuals (AttnRes)
+
+They use attention to retrieve information from previous layers:
+
+\\[ x_l = \sum\_{i\<l}\text{softmax}(q_l^Tk_i) v_i \\]
+
+Here, the attention scores determine how relevant each previous layer is to the current layer.
+
+### 3. So what's the actual difference?
+
+|                            | Hyper-connections                         | Attention Residuals                              |
+| -------------------------- | ----------------------------------------- | ------------------------------------------------ |
+| Multiple information paths | Yes                                       | Yes                                              |
+| Learnable mixing weights   | Yes                                       | Yes                                              |
+| Attention mechanism        | Not necessarily                           | Yes                                              |
+| Layer-dependent selection  | Yes                                       | Yes                                              |
+| Main idea                  | Flexible information flow between streams | Content-dependent retrieval from previous layers |
+
+The key distinction:
+
+- Hyper-connections learn how to mix information between residual streams.
+- Attention Residuals use query-key-value attention to dynamically select relevant previous representations.
+
+One subtlety: Hyper-connection weights aren't necessarily equivalent to attention scores. In particular, standard HC mixing coefficients can be learned parameters, whereas attention scores are calculated dynamically based on the current representations.
+
+---
+
+## How Attention Residuals and mHC differ
+
+Both methods change the residual path, but they do it in different directions.
+
+- Attention Residuals: select and combine outputs from **earlier depths**.
+- mHC: maintain and mix several residual streams at the **current depth**.
+
+Attention Residuals use learned attention weights over earlier sublayer outputs for the same token. mHC keeps several residual streams at the current depth and constrains how those streams exchange information.
